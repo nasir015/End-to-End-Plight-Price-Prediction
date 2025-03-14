@@ -135,3 +135,6 @@ Now, the application will be available at `http://localhost:5000/`.
 
 ## Application Screenshot
 ![app-ss](https://github.com/nasir015/End-to-End-Plight-Price-Prediction/blob/main/image/Screenshot_4.png)
+
+
+Developed by Md Nasir Uddin Email: `nasir.uddin.6314@gmail.com`  What's App: `+8801793502127`
