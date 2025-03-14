@@ -1,0 +1,7 @@
+Model,Best Params,Test RMSE
+Ridge Regression,{'alpha': 1.0225085611543734e-05},3197.992278604277
+Lasso Regression,{'alpha': 1.008259664656462e-05},3197.9922804451917
+ElasticNet Regression,"{'alpha': 9.886008855200579e-05, 'l1_ratio': 0.9966559244257976}",3197.9923351987986
+Random Forest,"{'n_estimators': 474, 'max_depth': 13}",1796.8208181954824
+Gradient Boosting,"{'n_estimators': 482, 'learning_rate': 0.09452489893787586}",1981.8471919005647
+SVR,"{'C': 43.94986010620569, 'gamma': 'scale', 'kernel': 'rbf'}",3258.4319834595735

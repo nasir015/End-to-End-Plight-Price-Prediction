@@ -1,0 +1,11 @@
+Mapping for Airline: {'Air Asia': np.int64(0), 'Air India': np.int64(1), 'GoAir': np.int64(2), 'IndiGo': np.int64(3), 'Jet Airways': np.int64(4), 'Jet Airways Business': np.int64(5), 'Multiple carriers': np.int64(6), 'Multiple carriers Premium economy': np.int64(7), 'SpiceJet': np.int64(8), 'Trujet': np.int64(9), 'Vistara': np.int64(10), 'Vistara Premium economy': np.int64(11)}
+
+Mapping for Source: {'Banglore': np.int64(0), 'Chennai': np.int64(1), 'Delhi': np.int64(2), 'Kolkata': np.int64(3), 'Mumbai': np.int64(4)}
+
+Mapping for Destination: {'Banglore': np.int64(0), 'Cochin': np.int64(1), 'Delhi': np.int64(2), 'Hyderabad': np.int64(3), 'Kolkata': np.int64(4), 'New Delhi': np.int64(5)}
+
+Mapping for Season: {'Spring': np.int64(0), 'Summer': np.int64(1)}
+
+Mapping for Time_of_Day: {'Afternoon': np.int64(0), 'Evening': np.int64(1), 'Morning': np.int64(2), 'Night': np.int64(3)}
+
+Mapping for Flight_Duration_Category: {'Long': np.int64(0), 'Medium': np.int64(1), 'Short': np.int64(2)}

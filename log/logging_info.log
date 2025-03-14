@@ -1,0 +1,1394 @@
+[2025-02-12 01:11:11] - INFO - Connecting to the SQLite database.
+[2025-02-12 01:20:50] - INFO - Connecting to the SQLite database.
+[2025-02-12 21:57:32] - INFO - Connecting to the SQLite database.
+[2025-02-15 10:15:04] - INFO - Extracting features from the data.
+[2025-02-15 10:15:04] - INFO - Categorizing the season.
+[2025-02-15 10:15:04] - INFO - Categorizing the time of day.
+[2025-02-15 10:15:04] - INFO - Categorizing the flight duration.
+[2025-02-15 10:15:04] - INFO - Extracting hours from Dep_Time and Arrival_Time columns.
+[2025-02-15 10:15:04] - INFO - Extracting minutes from Dep_Time and Arrival_Time columns.
+[2025-02-15 10:15:04] - INFO - Dropping the original Dep_Time and Arrival_Time columns.
+[2025-02-15 10:15:04] - INFO - Calculating the Journey Duration.
+[2025-02-15 10:15:04] - INFO - Calculating the Price per minute of flight duration.
+[2025-02-15 10:15:04] - INFO - Calculating the total stops.
+[2025-02-15 10:15:04] - INFO - Calculating the price per stop.
+[2025-02-15 10:15:04] - INFO - Calculating the difference in hours between departure and arrival.
+[2025-02-15 10:15:04] - INFO - Calculating the seasonal price change.
+[2025-02-15 10:15:04] - ERROR - Error occurred in python script name [e:\Neoron\Programming_Practice\Machine_Learning_Project\Flight price prediction\src\FlightPricePrediction\components\feature_extraction.py] line number [133] error message[name 'data' is not defined]
+[2025-02-15 10:15:27] - INFO - Extracting features from the data.
+[2025-02-15 10:15:27] - INFO - Categorizing the season.
+[2025-02-15 10:15:27] - INFO - Categorizing the time of day.
+[2025-02-15 10:15:27] - INFO - Categorizing the flight duration.
+[2025-02-15 10:15:27] - INFO - Extracting hours from Dep_Time and Arrival_Time columns.
+[2025-02-15 10:15:27] - INFO - Extracting minutes from Dep_Time and Arrival_Time columns.
+[2025-02-15 10:15:27] - INFO - Dropping the original Dep_Time and Arrival_Time columns.
+[2025-02-15 10:15:27] - INFO - Calculating the Journey Duration.
+[2025-02-15 10:15:27] - INFO - Calculating the Price per minute of flight duration.
+[2025-02-15 10:15:27] - INFO - Calculating the total stops.
+[2025-02-15 10:15:27] - INFO - Calculating the price per stop.
+[2025-02-15 10:15:27] - INFO - Calculating the difference in hours between departure and arrival.
+[2025-02-15 10:15:27] - INFO - Calculating the seasonal price change.
+[2025-02-15 10:15:28] - INFO - Calculating the price per hour of flight duration.
+[2025-02-15 10:15:28] - INFO - Exporting the extracted features to a new CSV file .
+[2025-02-15 10:15:28] - ERROR - Error occurred in python script name [e:\Neoron\Programming_Practice\Machine_Learning_Project\Flight price prediction\src\FlightPricePrediction\components\feature_extraction.py] line number [146] error message[[Errno 22] Invalid argument: 'artifact\x0ceature_extraction\x0ceature_extracted_data.csv']
+[2025-02-15 10:15:42] - INFO - Extracting features from the data.
+[2025-02-15 10:15:42] - INFO - Categorizing the season.
+[2025-02-15 10:15:42] - INFO - Categorizing the time of day.
+[2025-02-15 10:15:42] - INFO - Categorizing the flight duration.
+[2025-02-15 10:15:42] - INFO - Extracting hours from Dep_Time and Arrival_Time columns.
+[2025-02-15 10:15:42] - INFO - Extracting minutes from Dep_Time and Arrival_Time columns.
+[2025-02-15 10:15:43] - INFO - Dropping the original Dep_Time and Arrival_Time columns.
+[2025-02-15 10:15:43] - INFO - Calculating the Journey Duration.
+[2025-02-15 10:15:43] - INFO - Calculating the Price per minute of flight duration.
+[2025-02-15 10:15:43] - INFO - Calculating the total stops.
+[2025-02-15 10:15:43] - INFO - Calculating the price per stop.
+[2025-02-15 10:15:43] - INFO - Calculating the difference in hours between departure and arrival.
+[2025-02-15 10:15:43] - INFO - Calculating the seasonal price change.
+[2025-02-15 10:15:43] - INFO - Calculating the price per hour of flight duration.
+[2025-02-15 10:15:43] - INFO - Exporting the extracted features to a new CSV file .
+[2025-02-15 12:07:21] - INFO - Extracting features from the data.
+[2025-02-15 12:07:21] - INFO - Categorizing the season.
+[2025-02-15 12:07:21] - INFO - Categorizing the time of day.
+[2025-02-15 12:07:21] - INFO - Categorizing the flight duration.
+[2025-02-15 12:07:21] - INFO - Extracting hours from Dep_Time and Arrival_Time columns.
+[2025-02-15 12:07:21] - INFO - Extracting minutes from Dep_Time and Arrival_Time columns.
+[2025-02-15 12:07:21] - INFO - Dropping the original Dep_Time and Arrival_Time columns.
+[2025-02-15 12:07:21] - INFO - Calculating the Price per minute of flight duration.
+[2025-02-15 12:07:21] - INFO - Calculating the total stops.
+[2025-02-15 12:07:21] - INFO - Calculating the price per stop.
+[2025-02-15 12:07:21] - INFO - Calculating the difference in hours between departure and arrival.
+[2025-02-15 12:07:21] - ERROR - Error occurred in python script name [e:\Neoron\Programming_Practice\Machine_Learning_Project\Flight price prediction\src\FlightPricePrediction\components\feature_extraction.py] line number [125] error message['Journey_Duration']
+[2025-02-15 12:09:12] - INFO - Extracting features from the data.
+[2025-02-15 12:09:12] - INFO - Categorizing the season.
+[2025-02-15 12:09:12] - INFO - Categorizing the time of day.
+[2025-02-15 12:09:12] - INFO - Categorizing the flight duration.
+[2025-02-15 12:09:12] - INFO - Extracting hours from Dep_Time and Arrival_Time columns.
+[2025-02-15 12:09:12] - INFO - Extracting minutes from Dep_Time and Arrival_Time columns.
+[2025-02-15 12:09:12] - INFO - Dropping the original Dep_Time and Arrival_Time columns.
+[2025-02-15 12:09:12] - INFO - Calculating the Price per minute of flight duration.
+[2025-02-15 12:09:12] - INFO - Calculating the total stops.
+[2025-02-15 12:09:12] - INFO - Calculating the price per stop.
+[2025-02-15 12:09:12] - INFO - Calculating the seasonal price change.
+[2025-02-15 12:09:12] - INFO - Calculating the price per hour of flight duration.
+[2025-02-15 12:09:12] - INFO - Exporting the extracted features to a new CSV file .
+[2025-02-16 09:43:22] - INFO - Removing the rows with missing values
+[2025-02-16 09:43:22] - INFO - Removing the duplicate rows
+[2025-02-16 09:43:22] - INFO - Removing the columns which are not required
+[2025-02-16 09:43:22] - INFO - Identifying the categorical columns
+[2025-02-16 09:43:22] - INFO - Converting the categorical columns using level encoding
+[2025-02-16 09:43:22] - INFO - Saving the preprocessed data
+[2025-02-16 10:52:30] - INFO - Splitting the data into features and target
+[2025-02-16 10:52:30] - INFO - Standardizing the data
+[2025-02-16 10:52:30] - INFO - Splitting the data into training and testing sets
+[2025-02-16 10:52:30] - INFO - Creating a dictionary of regression models to test
+[2025-02-16 10:52:30] - INFO - Looping through models and calculating evaluation metrics
+[2025-02-16 10:53:01] - INFO - Converting the list of results into a DataFrame
+[2025-02-16 10:53:01] - INFO - Training the best model (Random Forest)
+[2025-02-16 10:53:05] - INFO - Saving the trained model to a file
+[2025-02-16 13:15:18] - INFO - >>>>>>>>>>Starting Database Operation<<<<<<<<<<<
+[2025-02-16 13:15:18] - INFO - Connecting to the SQLite database.
+[2025-02-16 13:15:18] - INFO - Creating the table and uploading data.
+[2025-02-16 13:15:19] - INFO - Table created successfully.
+[2025-02-16 13:15:19] - INFO - Uploading data into the table.
+[2025-02-16 13:15:19] - INFO - Data uploaded successfully.
+[2025-02-16 13:15:19] - INFO - >>>>>>>>>>Database Operation completed successfully.<<<<<<<<<<<
+[2025-02-16 13:15:19] - INFO - >>>>>>>>>>Starting Data Ingestion<<<<<<<<<<<
+[2025-02-16 13:18:05] - INFO - >>>>>>>>>>Starting Database Operation<<<<<<<<<<<
+[2025-02-16 13:18:05] - INFO - Connecting to the SQLite database.
+[2025-02-16 13:18:05] - INFO - Creating the table and uploading data.
+[2025-02-16 13:18:05] - INFO - Table created successfully.
+[2025-02-16 13:18:05] - INFO - Uploading data into the table.
+[2025-02-16 13:18:05] - INFO - Data uploaded successfully.
+[2025-02-16 13:18:05] - INFO - >>>>>>>>>>Database Operation completed successfully.<<<<<<<<<<<
+[2025-02-16 13:18:05] - INFO - >>>>>>>>>>Starting Data Ingestion<<<<<<<<<<<
+[2025-02-16 13:18:05] - INFO - Entering the Data Ingestion module
+[2025-02-16 13:18:05] - INFO - Connecting to the SQLite database
+[2025-02-16 13:18:05] - INFO - Fetching all column headers from the table
+[2025-02-16 13:18:05] - INFO - Fetching all rows of data from the table
+[2025-02-16 13:18:06] - INFO - Writing data to CSV
+[2025-02-16 13:18:06] - INFO - Exiting the Data Ingestion module
+[2025-02-16 13:18:06] - INFO - >>>>>>>>>>Data Ingestion completed successfully.<<<<<<<<<<<
+[2025-02-16 13:18:06] - INFO - >>>>>>>>>>Starting Data Cleaning<<<<<<<<<<<
+[2025-02-16 13:18:07] - INFO - >>>>>>>>>>Data Cleaning completed successfully.<<<<<<<<<<<
+[2025-02-16 13:18:07] - INFO - >>>>>>>>>>Starting Feature Extraction<<<<<<<<<<<
+[2025-02-16 13:18:07] - INFO - Extracting features from the data.
+[2025-02-16 13:18:07] - INFO - Categorizing the season.
+[2025-02-16 13:18:07] - INFO - Categorizing the time of day.
+[2025-02-16 13:18:07] - INFO - Categorizing the flight duration.
+[2025-02-16 13:18:07] - INFO - Extracting hours from Dep_Time and Arrival_Time columns.
+[2025-02-16 13:18:07] - INFO - Extracting minutes from Dep_Time and Arrival_Time columns.
+[2025-02-16 13:18:07] - INFO - Dropping the original Dep_Time and Arrival_Time columns.
+[2025-02-16 13:18:07] - INFO - Calculating the Price per minute of flight duration.
+[2025-02-16 13:18:07] - INFO - Calculating the total stops.
+[2025-02-16 13:18:07] - INFO - Calculating the price per stop.
+[2025-02-16 13:18:07] - INFO - Calculating the seasonal price change.
+[2025-02-16 13:18:07] - INFO - Calculating the price per hour of flight duration.
+[2025-02-16 13:18:07] - INFO - Exporting the extracted features to a new CSV file .
+[2025-02-16 13:18:08] - INFO - >>>>>>>>>>Feature Extraction completed successfully.<<<<<<<<<<<
+[2025-02-16 13:18:08] - INFO - >>>>>>>>>>Starting Data Preprocessing<<<<<<<<<<<
+[2025-02-16 13:18:08] - INFO - Removing the rows with missing values
+[2025-02-16 13:18:08] - INFO - Removing the duplicate rows
+[2025-02-16 13:18:08] - INFO - Removing the columns which are not required
+[2025-02-16 13:18:08] - INFO - Identifying the categorical columns
+[2025-02-16 13:18:08] - INFO - Converting the categorical columns using level encoding
+[2025-02-16 13:18:08] - INFO - Saving the preprocessed data
+[2025-02-16 13:18:09] - INFO - >>>>>>>>>>Data Preprocessing completed successfully.<<<<<<<<<<<
+[2025-02-16 13:18:09] - INFO - >>>>>>>>>>Starting Model Building<<<<<<<<<<<
+[2025-02-16 13:18:09] - INFO - Splitting the data into features and target
+[2025-02-16 13:18:09] - INFO - Standardizing the data
+[2025-02-16 13:18:09] - INFO - Splitting the data into training and testing sets
+[2025-02-16 13:18:09] - INFO - Creating a dictionary of regression models to test
+[2025-02-16 13:18:09] - INFO - Looping through models and calculating evaluation metrics
+[2025-02-16 13:18:33] - INFO - Converting the list of results into a DataFrame
+[2025-02-16 13:18:33] - INFO - Training the best model (Random Forest)
+[2025-02-16 13:18:38] - INFO - Saving the trained model to a file
+[2025-02-16 13:18:38] - INFO - >>>>>>>>>>Model Building completed successfully.<<<<<<<<<<<
+[2025-03-09 15:25:59] - INFO - >>>>>>>>>>Starting Database Operation<<<<<<<<<<<
+[2025-03-09 15:25:59] - INFO - Connecting to the SQLite database.
+[2025-03-09 15:25:59] - INFO - Creating the table and uploading data.
+[2025-03-09 15:25:59] - INFO - Table created successfully.
+[2025-03-09 15:25:59] - INFO - Uploading data into the table.
+[2025-03-09 15:26:00] - INFO - Data uploaded successfully.
+[2025-03-09 15:26:00] - INFO - >>>>>>>>>>Database Operation completed successfully.<<<<<<<<<<<
+[2025-03-09 15:26:00] - INFO - >>>>>>>>>>Starting Data Ingestion<<<<<<<<<<<
+[2025-03-09 15:26:00] - INFO - Entering the Data Ingestion module
+[2025-03-09 15:26:00] - INFO - Connecting to the SQLite database
+[2025-03-09 15:26:00] - INFO - Fetching all column headers from the table
+[2025-03-09 15:26:00] - INFO - Fetching all rows of data from the table
+[2025-03-09 15:26:01] - INFO - Writing data to CSV
+[2025-03-09 15:26:01] - INFO - Exiting the Data Ingestion module
+[2025-03-09 15:26:01] - INFO - >>>>>>>>>>Data Ingestion completed successfully.<<<<<<<<<<<
+[2025-03-09 15:26:01] - INFO - >>>>>>>>>>Starting Data Cleaning<<<<<<<<<<<
+[2025-03-09 15:26:02] - INFO - >>>>>>>>>>Data Cleaning completed successfully.<<<<<<<<<<<
+[2025-03-09 15:26:02] - INFO - >>>>>>>>>>Starting Feature Extraction<<<<<<<<<<<
+[2025-03-09 15:26:02] - INFO - Extracting features from the data.
+[2025-03-09 15:26:02] - INFO - Categorizing the season.
+[2025-03-09 15:26:02] - INFO - Categorizing the time of day.
+[2025-03-09 15:26:02] - INFO - Categorizing the flight duration.
+[2025-03-09 15:26:02] - INFO - Extracting hours from Dep_Time and Arrival_Time columns.
+[2025-03-09 15:26:02] - INFO - Extracting minutes from Dep_Time and Arrival_Time columns.
+[2025-03-09 15:26:02] - INFO - Dropping the original Dep_Time and Arrival_Time columns.
+[2025-03-09 15:26:03] - INFO - Calculating the Price per minute of flight duration.
+[2025-03-09 15:26:03] - INFO - Calculating the total stops.
+[2025-03-09 15:26:03] - INFO - Calculating the price per stop.
+[2025-03-09 15:26:03] - INFO - Calculating the seasonal price change.
+[2025-03-09 15:26:03] - INFO - Calculating the price per hour of flight duration.
+[2025-03-09 15:26:03] - INFO - Exporting the extracted features to a new CSV file .
+[2025-03-09 15:26:04] - INFO - >>>>>>>>>>Feature Extraction completed successfully.<<<<<<<<<<<
+[2025-03-09 15:26:04] - INFO - >>>>>>>>>>Starting Data Preprocessing<<<<<<<<<<<
+[2025-03-09 15:26:04] - INFO - Removing the rows with missing values
+[2025-03-09 15:26:04] - INFO - Removing the duplicate rows
+[2025-03-09 15:26:04] - INFO - Removing the columns which are not required
+[2025-03-09 15:26:04] - INFO - Identifying the categorical columns
+[2025-03-09 15:26:04] - INFO - Converting the categorical columns using level encoding
+[2025-03-09 15:26:04] - INFO - Saving the preprocessed data
+[2025-03-09 15:26:04] - ERROR - Error occurred in python script name [e:\Neoron\Programming_Practice\Machine_Learning_Project\Flight price prediction\src\FlightPricePrediction\components\data_preprocessing.py] line number [52] error message[Cannot save file into a non-existent directory: 'artifact\final_data']
+[2025-03-09 15:27:18] - INFO - >>>>>>>>>>Starting Database Operation<<<<<<<<<<<
+[2025-03-09 15:27:18] - INFO - Connecting to the SQLite database.
+[2025-03-09 15:27:18] - INFO - Creating the table and uploading data.
+[2025-03-09 15:27:18] - INFO - Table created successfully.
+[2025-03-09 15:27:18] - INFO - Uploading data into the table.
+[2025-03-09 15:27:18] - INFO - Data uploaded successfully.
+[2025-03-09 15:27:19] - INFO - >>>>>>>>>>Database Operation completed successfully.<<<<<<<<<<<
+[2025-03-09 15:27:19] - INFO - >>>>>>>>>>Starting Data Ingestion<<<<<<<<<<<
+[2025-03-09 15:27:19] - INFO - Entering the Data Ingestion module
+[2025-03-09 15:27:19] - INFO - Connecting to the SQLite database
+[2025-03-09 15:27:19] - INFO - Fetching all column headers from the table
+[2025-03-09 15:27:19] - INFO - Fetching all rows of data from the table
+[2025-03-09 15:27:19] - INFO - Writing data to CSV
+[2025-03-09 15:27:20] - INFO - Exiting the Data Ingestion module
+[2025-03-09 15:27:20] - INFO - >>>>>>>>>>Data Ingestion completed successfully.<<<<<<<<<<<
+[2025-03-09 15:27:20] - INFO - >>>>>>>>>>Starting Data Cleaning<<<<<<<<<<<
+[2025-03-09 15:27:21] - INFO - >>>>>>>>>>Data Cleaning completed successfully.<<<<<<<<<<<
+[2025-03-09 15:27:21] - INFO - >>>>>>>>>>Starting Feature Extraction<<<<<<<<<<<
+[2025-03-09 15:27:21] - INFO - Extracting features from the data.
+[2025-03-09 15:27:22] - INFO - Categorizing the season.
+[2025-03-09 15:27:22] - INFO - Categorizing the time of day.
+[2025-03-09 15:27:22] - INFO - Categorizing the flight duration.
+[2025-03-09 15:27:22] - INFO - Extracting hours from Dep_Time and Arrival_Time columns.
+[2025-03-09 15:27:22] - INFO - Extracting minutes from Dep_Time and Arrival_Time columns.
+[2025-03-09 15:27:22] - INFO - Dropping the original Dep_Time and Arrival_Time columns.
+[2025-03-09 15:27:22] - INFO - Calculating the Price per minute of flight duration.
+[2025-03-09 15:27:22] - INFO - Calculating the total stops.
+[2025-03-09 15:27:22] - INFO - Calculating the price per stop.
+[2025-03-09 15:27:22] - INFO - Calculating the seasonal price change.
+[2025-03-09 15:27:22] - INFO - Calculating the price per hour of flight duration.
+[2025-03-09 15:27:22] - INFO - Exporting the extracted features to a new CSV file .
+[2025-03-09 15:27:24] - INFO - >>>>>>>>>>Feature Extraction completed successfully.<<<<<<<<<<<
+[2025-03-09 15:27:24] - INFO - >>>>>>>>>>Starting Data Preprocessing<<<<<<<<<<<
+[2025-03-09 15:27:24] - INFO - Removing the rows with missing values
+[2025-03-09 15:27:24] - INFO - Removing the duplicate rows
+[2025-03-09 15:27:24] - INFO - Removing the columns which are not required
+[2025-03-09 15:27:24] - INFO - Identifying the categorical columns
+[2025-03-09 15:27:24] - INFO - Converting the categorical columns using level encoding
+[2025-03-09 15:27:24] - INFO - Saving the preprocessed data
+[2025-03-09 15:27:25] - INFO - >>>>>>>>>>Data Preprocessing completed successfully.<<<<<<<<<<<
+[2025-03-09 15:27:25] - INFO - >>>>>>>>>>Starting Model Building<<<<<<<<<<<
+[2025-03-09 15:27:25] - INFO - Splitting the data into features and target
+[2025-03-09 15:27:25] - INFO - Standardizing the data
+[2025-03-09 15:27:25] - INFO - Splitting the data into training and testing sets
+[2025-03-09 15:27:25] - INFO - Creating a dictionary of regression models to test
+[2025-03-09 15:27:25] - INFO - Looping through models and calculating evaluation metrics
+[2025-03-09 15:27:54] - INFO - Converting the list of results into a DataFrame
+[2025-03-09 15:27:54] - ERROR - Error occurred in python script name [e:\Neoron\Programming_Practice\Machine_Learning_Project\Flight price prediction\src\FlightPricePrediction\components\model_build.py] line number [97] error message[[Errno 13] Permission denied: 'artifact\\regression_models\\metrics.csv']
+[2025-03-13 16:27:13] - INFO - Entering the Data Ingestion module
+[2025-03-13 16:27:13] - INFO - Connecting to the SQLite database
+[2025-03-13 16:27:13] - INFO - Fetching all column headers from the table
+[2025-03-13 16:27:13] - INFO - Fetching all rows of data from the table
+[2025-03-13 16:27:13] - INFO - Writing data to CSV
+[2025-03-13 16:27:14] - INFO - Exiting the Data Ingestion module
+[2025-03-13 19:45:01] - INFO - >>>>>>>>>>Starting Database Operation<<<<<<<<<<<
+[2025-03-13 19:45:01] - INFO - Connecting to the SQLite database.
+[2025-03-13 19:45:01] - INFO - Creating the table and uploading data.
+[2025-03-13 19:45:01] - INFO - Table created successfully.
+[2025-03-13 19:45:01] - INFO - Uploading data into the table.
+[2025-03-13 19:45:02] - INFO - Data uploaded successfully.
+[2025-03-13 19:45:02] - INFO - >>>>>>>>>>Database Operation completed successfully.<<<<<<<<<<<
+[2025-03-13 19:45:02] - INFO - >>>>>>>>>>Starting Data Ingestion<<<<<<<<<<<
+[2025-03-13 19:45:02] - INFO - Entering the Data Ingestion module
+[2025-03-13 19:45:02] - INFO - Connecting to the SQLite database
+[2025-03-13 19:45:02] - INFO - Fetching all column headers from the table
+[2025-03-13 19:45:02] - INFO - Fetching all rows of data from the table
+[2025-03-13 19:45:03] - INFO - Writing data to CSV
+[2025-03-13 19:45:03] - INFO - Exiting the Data Ingestion module
+[2025-03-13 19:45:03] - INFO - >>>>>>>>>>Data Ingestion completed successfully.<<<<<<<<<<<
+[2025-03-13 19:45:03] - INFO - >>>>>>>>>>Starting Data Cleaning<<<<<<<<<<<
+[2025-03-13 19:45:03] - INFO - Entering the Data Ingestion module
+[2025-03-13 19:45:03] - INFO - Connecting to the SQLite database
+[2025-03-13 19:45:03] - INFO - Fetching all column headers from the table
+[2025-03-13 19:45:03] - INFO - Fetching all rows of data from the table
+[2025-03-13 19:45:04] - INFO - Writing data to CSV
+[2025-03-13 19:45:04] - INFO - Exiting the Data Ingestion module
+[2025-03-13 19:45:06] - INFO - >>>>>>>>>>Data Cleaning completed successfully.<<<<<<<<<<<
+[2025-03-13 19:45:06] - INFO - >>>>>>>>>>Starting Feature Extraction<<<<<<<<<<<
+[2025-03-13 19:45:06] - INFO - Entering the Data Ingestion module
+[2025-03-13 19:45:06] - INFO - Connecting to the SQLite database
+[2025-03-13 19:45:06] - INFO - Fetching all column headers from the table
+[2025-03-13 19:45:06] - INFO - Fetching all rows of data from the table
+[2025-03-13 19:45:06] - INFO - Writing data to CSV
+[2025-03-13 19:45:07] - INFO - Exiting the Data Ingestion module
+[2025-03-13 19:45:08] - INFO - Extracting features from the data.
+[2025-03-13 19:45:08] - INFO - Categorizing the season.
+[2025-03-13 19:45:08] - INFO - Categorizing the time of day.
+[2025-03-13 19:45:08] - INFO - Categorizing the flight duration.
+[2025-03-13 19:45:08] - INFO - Extracting hours from Dep_Time and Arrival_Time columns.
+[2025-03-13 19:45:08] - INFO - Extracting minutes from Dep_Time and Arrival_Time columns.
+[2025-03-13 19:45:08] - INFO - Dropping the original Dep_Time and Arrival_Time columns.
+[2025-03-13 19:45:08] - INFO - Calculating the total stops.
+[2025-03-13 19:45:08] - INFO - Exporting the extracted features to a new CSV file .
+[2025-03-13 19:45:09] - INFO - >>>>>>>>>>Feature Extraction completed successfully.<<<<<<<<<<<
+[2025-03-13 19:45:09] - INFO - >>>>>>>>>>Starting Data Preprocessing<<<<<<<<<<<
+[2025-03-13 19:45:09] - INFO - Entering the Data Ingestion module
+[2025-03-13 19:45:09] - INFO - Connecting to the SQLite database
+[2025-03-13 19:45:09] - INFO - Fetching all column headers from the table
+[2025-03-13 19:45:09] - INFO - Fetching all rows of data from the table
+[2025-03-13 19:45:10] - INFO - Writing data to CSV
+[2025-03-13 19:45:10] - INFO - Exiting the Data Ingestion module
+[2025-03-13 19:45:12] - INFO - Extracting features from the data.
+[2025-03-13 19:45:12] - INFO - Categorizing the season.
+[2025-03-13 19:45:12] - INFO - Categorizing the time of day.
+[2025-03-13 19:45:12] - INFO - Categorizing the flight duration.
+[2025-03-13 19:45:12] - INFO - Extracting hours from Dep_Time and Arrival_Time columns.
+[2025-03-13 19:45:12] - INFO - Extracting minutes from Dep_Time and Arrival_Time columns.
+[2025-03-13 19:45:12] - INFO - Dropping the original Dep_Time and Arrival_Time columns.
+[2025-03-13 19:45:12] - INFO - Calculating the total stops.
+[2025-03-13 19:45:12] - INFO - Exporting the extracted features to a new CSV file .
+[2025-03-13 19:45:13] - INFO - Removing the rows with missing values
+[2025-03-13 19:45:13] - INFO - Removing the duplicate rows
+[2025-03-13 19:45:13] - INFO - Removing the columns which are not required
+[2025-03-13 19:45:13] - INFO - Identifying the categorical columns
+[2025-03-13 19:45:13] - INFO - Converting the categorical columns using level encoding
+[2025-03-13 19:45:13] - INFO - Saving the preprocessed data
+[2025-03-13 19:45:13] - INFO - >>>>>>>>>>Data Preprocessing completed successfully.<<<<<<<<<<<
+[2025-03-13 19:45:13] - INFO - >>>>>>>>>>Starting Model Building<<<<<<<<<<<
+[2025-03-13 19:45:13] - INFO - Entering the Data Ingestion module
+[2025-03-13 19:45:13] - INFO - Connecting to the SQLite database
+[2025-03-13 19:45:13] - INFO - Fetching all column headers from the table
+[2025-03-13 19:45:13] - INFO - Fetching all rows of data from the table
+[2025-03-13 19:45:14] - INFO - Writing data to CSV
+[2025-03-13 19:45:14] - INFO - Exiting the Data Ingestion module
+[2025-03-13 19:45:16] - INFO - Extracting features from the data.
+[2025-03-13 19:45:16] - INFO - Categorizing the season.
+[2025-03-13 19:45:16] - INFO - Categorizing the time of day.
+[2025-03-13 19:45:16] - INFO - Categorizing the flight duration.
+[2025-03-13 19:45:16] - INFO - Extracting hours from Dep_Time and Arrival_Time columns.
+[2025-03-13 19:45:16] - INFO - Extracting minutes from Dep_Time and Arrival_Time columns.
+[2025-03-13 19:45:16] - INFO - Dropping the original Dep_Time and Arrival_Time columns.
+[2025-03-13 19:45:16] - INFO - Calculating the total stops.
+[2025-03-13 19:45:16] - INFO - Exporting the extracted features to a new CSV file .
+[2025-03-13 19:45:17] - INFO - Removing the rows with missing values
+[2025-03-13 19:45:17] - INFO - Removing the duplicate rows
+[2025-03-13 19:45:17] - INFO - Removing the columns which are not required
+[2025-03-13 19:45:17] - INFO - Identifying the categorical columns
+[2025-03-13 19:45:17] - INFO - Converting the categorical columns using level encoding
+[2025-03-13 19:45:17] - INFO - Saving the preprocessed data
+[2025-03-13 19:45:17] - INFO - Splitting the data into features and target
+[2025-03-13 19:45:17] - INFO - Standardizing the data
+[2025-03-13 19:45:17] - INFO - Splitting the data into training and testing sets
+[2025-03-13 19:45:17] - INFO - Creating a dictionary of regression models to test
+[2025-03-13 19:45:17] - INFO - Looping through models and calculating evaluation metrics
+[2025-03-13 19:45:43] - INFO - Converting the list of results into a DataFrame
+[2025-03-13 19:45:43] - INFO - Training the best model (Random Forest)
+[2025-03-13 19:45:47] - INFO - Saving the trained model to a file
+[2025-03-13 19:45:47] - INFO - >>>>>>>>>>Model Building completed successfully.<<<<<<<<<<<
+[2025-03-13 21:48:51] - INFO - >>>>>>>>>>Starting Database Operation<<<<<<<<<<<
+[2025-03-13 21:48:51] - INFO - Connecting to the SQLite database.
+[2025-03-13 21:48:51] - INFO - Creating the table and uploading data.
+[2025-03-13 21:48:51] - INFO - Table created successfully.
+[2025-03-13 21:48:51] - INFO - Uploading data into the table.
+[2025-03-13 21:48:51] - INFO - Data uploaded successfully.
+[2025-03-13 21:48:51] - INFO - >>>>>>>>>>Database Operation completed successfully.<<<<<<<<<<<
+[2025-03-13 21:48:51] - INFO - >>>>>>>>>>Starting Data Ingestion<<<<<<<<<<<
+[2025-03-13 21:48:51] - INFO - Entering the Data Ingestion module
+[2025-03-13 21:48:51] - INFO - Connecting to the SQLite database
+[2025-03-13 21:48:51] - INFO - Fetching all column headers from the table
+[2025-03-13 21:48:51] - INFO - Fetching all rows of data from the table
+[2025-03-13 21:48:52] - INFO - Writing data to CSV
+[2025-03-13 21:48:53] - INFO - Exiting the Data Ingestion module
+[2025-03-13 21:48:53] - INFO - >>>>>>>>>>Data Ingestion completed successfully.<<<<<<<<<<<
+[2025-03-13 21:48:53] - INFO - >>>>>>>>>>Starting Data Cleaning<<<<<<<<<<<
+[2025-03-13 21:48:53] - INFO - Entering the Data Ingestion module
+[2025-03-13 21:48:53] - INFO - Connecting to the SQLite database
+[2025-03-13 21:48:53] - INFO - Fetching all column headers from the table
+[2025-03-13 21:48:53] - INFO - Fetching all rows of data from the table
+[2025-03-13 21:48:54] - INFO - Writing data to CSV
+[2025-03-13 21:48:54] - INFO - Exiting the Data Ingestion module
+[2025-03-13 21:48:56] - INFO - >>>>>>>>>>Data Cleaning completed successfully.<<<<<<<<<<<
+[2025-03-13 21:48:56] - INFO - >>>>>>>>>>Starting Feature Extraction<<<<<<<<<<<
+[2025-03-13 21:48:56] - INFO - Entering the Data Ingestion module
+[2025-03-13 21:48:56] - INFO - Connecting to the SQLite database
+[2025-03-13 21:48:56] - INFO - Fetching all column headers from the table
+[2025-03-13 21:48:56] - INFO - Fetching all rows of data from the table
+[2025-03-13 21:48:56] - INFO - Writing data to CSV
+[2025-03-13 21:48:56] - INFO - Exiting the Data Ingestion module
+[2025-03-13 21:48:58] - INFO - Extracting features from the data.
+[2025-03-13 21:48:58] - INFO - Categorizing the season.
+[2025-03-13 21:48:58] - INFO - Categorizing the time of day.
+[2025-03-13 21:48:58] - INFO - Categorizing the flight duration.
+[2025-03-13 21:48:58] - INFO - Extracting hours from Dep_Time and Arrival_Time columns.
+[2025-03-13 21:48:58] - INFO - Extracting minutes from Dep_Time and Arrival_Time columns.
+[2025-03-13 21:48:58] - INFO - Dropping the original Dep_Time and Arrival_Time columns.
+[2025-03-13 21:48:58] - INFO - Calculating the total stops.
+[2025-03-13 21:48:58] - INFO - Exporting the extracted features to a new CSV file .
+[2025-03-13 21:48:59] - INFO - >>>>>>>>>>Feature Extraction completed successfully.<<<<<<<<<<<
+[2025-03-13 21:48:59] - INFO - >>>>>>>>>>Starting Data Preprocessing<<<<<<<<<<<
+[2025-03-13 21:48:59] - INFO - Entering the Data Ingestion module
+[2025-03-13 21:48:59] - INFO - Connecting to the SQLite database
+[2025-03-13 21:48:59] - INFO - Fetching all column headers from the table
+[2025-03-13 21:48:59] - INFO - Fetching all rows of data from the table
+[2025-03-13 21:49:00] - INFO - Writing data to CSV
+[2025-03-13 21:49:00] - INFO - Exiting the Data Ingestion module
+[2025-03-13 21:49:02] - INFO - Extracting features from the data.
+[2025-03-13 21:49:02] - INFO - Categorizing the season.
+[2025-03-13 21:49:02] - INFO - Categorizing the time of day.
+[2025-03-13 21:49:02] - INFO - Categorizing the flight duration.
+[2025-03-13 21:49:02] - INFO - Extracting hours from Dep_Time and Arrival_Time columns.
+[2025-03-13 21:49:02] - INFO - Extracting minutes from Dep_Time and Arrival_Time columns.
+[2025-03-13 21:49:02] - INFO - Dropping the original Dep_Time and Arrival_Time columns.
+[2025-03-13 21:49:02] - INFO - Calculating the total stops.
+[2025-03-13 21:49:02] - INFO - Exporting the extracted features to a new CSV file .
+[2025-03-13 21:49:03] - INFO - Removing the rows with missing values
+[2025-03-13 21:49:03] - INFO - Removing the duplicate rows
+[2025-03-13 21:49:03] - INFO - Removing the columns which are not required
+[2025-03-13 21:49:03] - INFO - Identifying the categorical columns
+[2025-03-13 21:49:03] - INFO - Converting the categorical columns using level encoding
+[2025-03-13 21:49:03] - INFO - Saving the preprocessed data
+[2025-03-13 21:49:03] - INFO - >>>>>>>>>>Data Preprocessing completed successfully.<<<<<<<<<<<
+[2025-03-13 21:49:03] - INFO - >>>>>>>>>>Starting Model Building<<<<<<<<<<<
+[2025-03-13 21:49:03] - INFO - Entering the Data Ingestion module
+[2025-03-13 21:49:03] - INFO - Connecting to the SQLite database
+[2025-03-13 21:49:03] - INFO - Fetching all column headers from the table
+[2025-03-13 21:49:03] - INFO - Fetching all rows of data from the table
+[2025-03-13 21:49:04] - INFO - Writing data to CSV
+[2025-03-13 21:49:04] - INFO - Exiting the Data Ingestion module
+[2025-03-13 21:49:06] - INFO - Extracting features from the data.
+[2025-03-13 21:49:06] - INFO - Categorizing the season.
+[2025-03-13 21:49:06] - INFO - Categorizing the time of day.
+[2025-03-13 21:49:06] - INFO - Categorizing the flight duration.
+[2025-03-13 21:49:06] - INFO - Extracting hours from Dep_Time and Arrival_Time columns.
+[2025-03-13 21:49:06] - INFO - Extracting minutes from Dep_Time and Arrival_Time columns.
+[2025-03-13 21:49:06] - INFO - Dropping the original Dep_Time and Arrival_Time columns.
+[2025-03-13 21:49:06] - INFO - Calculating the total stops.
+[2025-03-13 21:49:06] - INFO - Exporting the extracted features to a new CSV file .
+[2025-03-13 21:49:07] - INFO - Removing the rows with missing values
+[2025-03-13 21:49:07] - INFO - Removing the duplicate rows
+[2025-03-13 21:49:07] - INFO - Removing the columns which are not required
+[2025-03-13 21:49:07] - INFO - Identifying the categorical columns
+[2025-03-13 21:49:07] - INFO - Converting the categorical columns using level encoding
+[2025-03-13 21:49:07] - INFO - Saving the preprocessed data
+[2025-03-13 21:49:07] - INFO - Splitting the data into features and target
+[2025-03-13 21:49:07] - INFO - Standardizing the data
+[2025-03-13 21:49:08] - INFO - Applying KMeans clustering
+[2025-03-13 21:49:08] - INFO - Creating a dictionary of regression models to test
+[2025-03-13 21:49:08] - INFO - Looping through clusters and models
+[2025-03-13 21:49:17] - INFO - Converting the list of results into a DataFrame
+[2025-03-13 21:49:17] - INFO - Training the best model (Random Forest)
+[2025-03-13 21:49:22] - INFO - Saving the trained model to a file
+[2025-03-13 21:49:22] - INFO - >>>>>>>>>>Model Building completed successfully.<<<<<<<<<<<
+[2025-03-13 22:04:46] - INFO - >>>>>>>>>>Starting Database Operation<<<<<<<<<<<
+[2025-03-13 22:04:46] - INFO - Connecting to the SQLite database.
+[2025-03-13 22:04:46] - INFO - Creating the table and uploading data.
+[2025-03-13 22:04:46] - INFO - Table created successfully.
+[2025-03-13 22:04:46] - INFO - Uploading data into the table.
+[2025-03-13 22:04:46] - INFO - Data uploaded successfully.
+[2025-03-13 22:04:46] - INFO - >>>>>>>>>>Database Operation completed successfully.<<<<<<<<<<<
+[2025-03-13 22:04:46] - INFO - >>>>>>>>>>Starting Data Ingestion<<<<<<<<<<<
+[2025-03-13 22:04:46] - INFO - Entering the Data Ingestion module
+[2025-03-13 22:04:46] - INFO - Connecting to the SQLite database
+[2025-03-13 22:04:46] - INFO - Fetching all column headers from the table
+[2025-03-13 22:04:46] - INFO - Fetching all rows of data from the table
+[2025-03-13 22:04:47] - INFO - Writing data to CSV
+[2025-03-13 22:04:48] - INFO - Exiting the Data Ingestion module
+[2025-03-13 22:04:48] - INFO - >>>>>>>>>>Data Ingestion completed successfully.<<<<<<<<<<<
+[2025-03-13 22:04:48] - INFO - >>>>>>>>>>Starting Data Cleaning<<<<<<<<<<<
+[2025-03-13 22:04:48] - INFO - Entering the Data Ingestion module
+[2025-03-13 22:04:48] - INFO - Connecting to the SQLite database
+[2025-03-13 22:04:48] - INFO - Fetching all column headers from the table
+[2025-03-13 22:04:48] - INFO - Fetching all rows of data from the table
+[2025-03-13 22:04:48] - INFO - Writing data to CSV
+[2025-03-13 22:04:49] - INFO - Exiting the Data Ingestion module
+[2025-03-13 22:04:51] - INFO - >>>>>>>>>>Data Cleaning completed successfully.<<<<<<<<<<<
+[2025-03-13 22:04:51] - INFO - >>>>>>>>>>Starting Feature Extraction<<<<<<<<<<<
+[2025-03-13 22:04:51] - INFO - Entering the Data Ingestion module
+[2025-03-13 22:04:51] - INFO - Connecting to the SQLite database
+[2025-03-13 22:04:51] - INFO - Fetching all column headers from the table
+[2025-03-13 22:04:51] - INFO - Fetching all rows of data from the table
+[2025-03-13 22:04:51] - INFO - Writing data to CSV
+[2025-03-13 22:04:52] - INFO - Exiting the Data Ingestion module
+[2025-03-13 22:04:53] - INFO - Extracting features from the data.
+[2025-03-13 22:04:54] - INFO - Categorizing the season.
+[2025-03-13 22:04:54] - INFO - Categorizing the time of day.
+[2025-03-13 22:04:54] - INFO - Categorizing the flight duration.
+[2025-03-13 22:04:54] - INFO - Extracting hours from Dep_Time and Arrival_Time columns.
+[2025-03-13 22:04:54] - INFO - Extracting minutes from Dep_Time and Arrival_Time columns.
+[2025-03-13 22:04:54] - INFO - Dropping the original Dep_Time and Arrival_Time columns.
+[2025-03-13 22:04:54] - INFO - Calculating the total stops.
+[2025-03-13 22:04:54] - INFO - Exporting the extracted features to a new CSV file .
+[2025-03-13 22:04:55] - INFO - >>>>>>>>>>Feature Extraction completed successfully.<<<<<<<<<<<
+[2025-03-13 22:04:55] - INFO - >>>>>>>>>>Starting Data Preprocessing<<<<<<<<<<<
+[2025-03-13 22:04:55] - INFO - Entering the Data Ingestion module
+[2025-03-13 22:04:55] - INFO - Connecting to the SQLite database
+[2025-03-13 22:04:55] - INFO - Fetching all column headers from the table
+[2025-03-13 22:04:55] - INFO - Fetching all rows of data from the table
+[2025-03-13 22:04:56] - INFO - Writing data to CSV
+[2025-03-13 22:04:56] - INFO - Exiting the Data Ingestion module
+[2025-03-13 22:04:58] - INFO - Extracting features from the data.
+[2025-03-13 22:04:58] - INFO - Categorizing the season.
+[2025-03-13 22:04:58] - INFO - Categorizing the time of day.
+[2025-03-13 22:04:58] - INFO - Categorizing the flight duration.
+[2025-03-13 22:04:58] - INFO - Extracting hours from Dep_Time and Arrival_Time columns.
+[2025-03-13 22:04:58] - INFO - Extracting minutes from Dep_Time and Arrival_Time columns.
+[2025-03-13 22:04:58] - INFO - Dropping the original Dep_Time and Arrival_Time columns.
+[2025-03-13 22:04:58] - INFO - Calculating the total stops.
+[2025-03-13 22:04:59] - INFO - Exporting the extracted features to a new CSV file .
+[2025-03-13 22:05:00] - INFO - Removing the rows with missing values
+[2025-03-13 22:05:00] - INFO - Removing the duplicate rows
+[2025-03-13 22:05:00] - INFO - Removing the columns which are not required
+[2025-03-13 22:05:00] - INFO - Identifying the categorical columns
+[2025-03-13 22:05:00] - INFO - Converting the categorical columns using level encoding
+[2025-03-13 22:05:00] - INFO - Saving the preprocessed data
+[2025-03-13 22:05:00] - INFO - >>>>>>>>>>Data Preprocessing completed successfully.<<<<<<<<<<<
+[2025-03-13 22:05:00] - INFO - >>>>>>>>>>Starting Model Building<<<<<<<<<<<
+[2025-03-13 22:05:00] - INFO - Entering the Data Ingestion module
+[2025-03-13 22:05:00] - INFO - Connecting to the SQLite database
+[2025-03-13 22:05:00] - INFO - Fetching all column headers from the table
+[2025-03-13 22:05:00] - INFO - Fetching all rows of data from the table
+[2025-03-13 22:05:01] - INFO - Writing data to CSV
+[2025-03-13 22:05:01] - INFO - Exiting the Data Ingestion module
+[2025-03-13 22:05:03] - INFO - Extracting features from the data.
+[2025-03-13 22:05:03] - INFO - Categorizing the season.
+[2025-03-13 22:05:03] - INFO - Categorizing the time of day.
+[2025-03-13 22:05:03] - INFO - Categorizing the flight duration.
+[2025-03-13 22:05:03] - INFO - Extracting hours from Dep_Time and Arrival_Time columns.
+[2025-03-13 22:05:03] - INFO - Extracting minutes from Dep_Time and Arrival_Time columns.
+[2025-03-13 22:05:03] - INFO - Dropping the original Dep_Time and Arrival_Time columns.
+[2025-03-13 22:05:03] - INFO - Calculating the total stops.
+[2025-03-13 22:05:03] - INFO - Exporting the extracted features to a new CSV file .
+[2025-03-13 22:05:05] - INFO - Removing the rows with missing values
+[2025-03-13 22:05:05] - INFO - Removing the duplicate rows
+[2025-03-13 22:05:05] - INFO - Removing the columns which are not required
+[2025-03-13 22:05:05] - INFO - Identifying the categorical columns
+[2025-03-13 22:05:05] - INFO - Converting the categorical columns using level encoding
+[2025-03-13 22:05:05] - INFO - Saving the preprocessed data
+[2025-03-13 22:05:05] - INFO - Splitting the data into features and target
+[2025-03-13 22:05:05] - INFO - Standardizing the data
+[2025-03-13 22:05:05] - INFO - Splitting the data into training and testing sets
+[2025-03-13 22:05:05] - INFO - Optimizing hyperparameters for Ridge Regression
+[2025-03-13 22:05:06] - INFO - Best params for Ridge Regression: {'alpha': 1.0003228717683616e-05}
+[2025-03-13 22:05:06] - INFO - Optimizing hyperparameters for Lasso Regression
+[2025-03-13 22:05:07] - INFO - Best params for Lasso Regression: {'alpha': 1.0066663150554914e-05}
+[2025-03-13 22:05:07] - INFO - Optimizing hyperparameters for ElasticNet Regression
+[2025-03-13 22:05:09] - INFO - Best params for ElasticNet Regression: {'alpha': 2.4664813843418895e-05, 'l1_ratio': 0.8291481924735165}
+[2025-03-13 22:05:09] - INFO - Optimizing hyperparameters for Decision Tree
+[2025-03-13 22:05:12] - INFO - Best params for Decision Tree: {'max_depth': 13, 'min_samples_split': 6}
+[2025-03-13 22:05:12] - INFO - Optimizing hyperparameters for Random Forest
+[2025-03-13 22:14:49] - INFO - Best params for Random Forest: {'n_estimators': 467, 'max_depth': 12}
+[2025-03-13 22:14:49] - INFO - Optimizing hyperparameters for Gradient Boosting
+[2025-03-13 22:17:56] - INFO - Best params for Gradient Boosting: {'n_estimators': 389, 'learning_rate': 0.09891217140842096}
+[2025-03-13 22:17:56] - INFO - Optimizing hyperparameters for SVR
+[2025-03-13 22:23:07] - INFO - Best params for SVR: {'C': 98.92178140022034, 'gamma': 'scale', 'kernel': 'rbf'}
+[2025-03-13 22:23:07] - INFO - Training the best model: Random Forest
+[2025-03-13 22:23:20] - ERROR - Error occurred in python script name [e:\Neoron\Programming_Practice\Machine_Learning_Project\Flight price prediction\src\FlightPricePrediction\components\model_build_06.py] line number [382] error message[name 'joblib' is not defined]
+[2025-03-13 22:37:56] - INFO - >>>>>>>>>>Starting Database Operation<<<<<<<<<<<
+[2025-03-13 22:37:56] - INFO - Connecting to the SQLite database.
+[2025-03-13 22:37:56] - INFO - Creating the table and uploading data.
+[2025-03-13 22:37:56] - INFO - Table created successfully.
+[2025-03-13 22:37:56] - INFO - Uploading data into the table.
+[2025-03-13 22:37:56] - INFO - Data uploaded successfully.
+[2025-03-13 22:37:57] - INFO - >>>>>>>>>>Database Operation completed successfully.<<<<<<<<<<<
+[2025-03-13 22:37:57] - INFO - >>>>>>>>>>Starting Data Ingestion<<<<<<<<<<<
+[2025-03-13 22:37:57] - INFO - Entering the Data Ingestion module
+[2025-03-13 22:37:57] - INFO - Connecting to the SQLite database
+[2025-03-13 22:37:57] - INFO - Fetching all column headers from the table
+[2025-03-13 22:37:57] - INFO - Fetching all rows of data from the table
+[2025-03-13 22:37:58] - INFO - Writing data to CSV
+[2025-03-13 22:37:58] - INFO - Exiting the Data Ingestion module
+[2025-03-13 22:37:58] - INFO - >>>>>>>>>>Data Ingestion completed successfully.<<<<<<<<<<<
+[2025-03-13 22:37:58] - INFO - >>>>>>>>>>Starting Data Cleaning<<<<<<<<<<<
+[2025-03-13 22:37:58] - INFO - Entering the Data Ingestion module
+[2025-03-13 22:37:58] - INFO - Connecting to the SQLite database
+[2025-03-13 22:37:58] - INFO - Fetching all column headers from the table
+[2025-03-13 22:37:59] - INFO - Fetching all rows of data from the table
+[2025-03-13 22:37:59] - INFO - Writing data to CSV
+[2025-03-13 22:38:00] - INFO - Exiting the Data Ingestion module
+[2025-03-13 22:38:02] - INFO - >>>>>>>>>>Data Cleaning completed successfully.<<<<<<<<<<<
+[2025-03-13 22:38:02] - INFO - >>>>>>>>>>Starting Feature Extraction<<<<<<<<<<<
+[2025-03-13 22:38:02] - INFO - Entering the Data Ingestion module
+[2025-03-13 22:38:02] - INFO - Connecting to the SQLite database
+[2025-03-13 22:38:02] - INFO - Fetching all column headers from the table
+[2025-03-13 22:38:02] - INFO - Fetching all rows of data from the table
+[2025-03-13 22:38:02] - INFO - Writing data to CSV
+[2025-03-13 22:38:03] - INFO - Exiting the Data Ingestion module
+[2025-03-13 22:38:05] - INFO - Extracting features from the data.
+[2025-03-13 22:38:05] - INFO - Categorizing the season.
+[2025-03-13 22:38:05] - INFO - Categorizing the time of day.
+[2025-03-13 22:38:05] - INFO - Categorizing the flight duration.
+[2025-03-13 22:38:05] - INFO - Extracting hours from Dep_Time and Arrival_Time columns.
+[2025-03-13 22:38:05] - INFO - Extracting minutes from Dep_Time and Arrival_Time columns.
+[2025-03-13 22:38:05] - INFO - Dropping the original Dep_Time and Arrival_Time columns.
+[2025-03-13 22:38:05] - INFO - Calculating the total stops.
+[2025-03-13 22:38:05] - INFO - Exporting the extracted features to a new CSV file .
+[2025-03-13 22:38:07] - INFO - >>>>>>>>>>Feature Extraction completed successfully.<<<<<<<<<<<
+[2025-03-13 22:38:07] - INFO - >>>>>>>>>>Starting Data Preprocessing<<<<<<<<<<<
+[2025-03-13 22:38:07] - INFO - Entering the Data Ingestion module
+[2025-03-13 22:38:07] - INFO - Connecting to the SQLite database
+[2025-03-13 22:38:07] - INFO - Fetching all column headers from the table
+[2025-03-13 22:38:07] - INFO - Fetching all rows of data from the table
+[2025-03-13 22:38:07] - INFO - Writing data to CSV
+[2025-03-13 22:38:08] - INFO - Exiting the Data Ingestion module
+[2025-03-13 22:38:10] - INFO - Extracting features from the data.
+[2025-03-13 22:38:10] - INFO - Categorizing the season.
+[2025-03-13 22:38:10] - INFO - Categorizing the time of day.
+[2025-03-13 22:38:10] - INFO - Categorizing the flight duration.
+[2025-03-13 22:38:10] - INFO - Extracting hours from Dep_Time and Arrival_Time columns.
+[2025-03-13 22:38:10] - INFO - Extracting minutes from Dep_Time and Arrival_Time columns.
+[2025-03-13 22:38:10] - INFO - Dropping the original Dep_Time and Arrival_Time columns.
+[2025-03-13 22:38:10] - INFO - Calculating the total stops.
+[2025-03-13 22:38:10] - INFO - Exporting the extracted features to a new CSV file .
+[2025-03-13 22:38:11] - INFO - Removing the rows with missing values
+[2025-03-13 22:38:11] - INFO - Removing the duplicate rows
+[2025-03-13 22:38:12] - INFO - Removing the columns which are not required
+[2025-03-13 22:38:12] - INFO - Identifying the categorical columns
+[2025-03-13 22:38:12] - INFO - Converting the categorical columns using level encoding
+[2025-03-13 22:38:12] - INFO - Saving the preprocessed data
+[2025-03-13 22:38:12] - INFO - >>>>>>>>>>Data Preprocessing completed successfully.<<<<<<<<<<<
+[2025-03-13 22:38:12] - INFO - >>>>>>>>>>Starting Model Building<<<<<<<<<<<
+[2025-03-13 22:38:12] - INFO - Entering the Data Ingestion module
+[2025-03-13 22:38:12] - INFO - Connecting to the SQLite database
+[2025-03-13 22:38:12] - INFO - Fetching all column headers from the table
+[2025-03-13 22:38:12] - INFO - Fetching all rows of data from the table
+[2025-03-13 22:38:12] - INFO - Writing data to CSV
+[2025-03-13 22:38:13] - INFO - Exiting the Data Ingestion module
+[2025-03-13 22:38:15] - INFO - Extracting features from the data.
+[2025-03-13 22:38:15] - INFO - Categorizing the season.
+[2025-03-13 22:38:15] - INFO - Categorizing the time of day.
+[2025-03-13 22:38:15] - INFO - Categorizing the flight duration.
+[2025-03-13 22:38:15] - INFO - Extracting hours from Dep_Time and Arrival_Time columns.
+[2025-03-13 22:38:15] - INFO - Extracting minutes from Dep_Time and Arrival_Time columns.
+[2025-03-13 22:38:15] - INFO - Dropping the original Dep_Time and Arrival_Time columns.
+[2025-03-13 22:38:15] - INFO - Calculating the total stops.
+[2025-03-13 22:38:15] - INFO - Exporting the extracted features to a new CSV file .
+[2025-03-13 22:38:17] - INFO - Removing the rows with missing values
+[2025-03-13 22:38:17] - INFO - Removing the duplicate rows
+[2025-03-13 22:38:17] - INFO - Removing the columns which are not required
+[2025-03-13 22:38:17] - INFO - Identifying the categorical columns
+[2025-03-13 22:38:17] - INFO - Converting the categorical columns using level encoding
+[2025-03-13 22:38:17] - INFO - Saving the preprocessed data
+[2025-03-13 22:38:17] - INFO - Splitting the data into features and target
+[2025-03-13 22:38:17] - INFO - Standardizing the data
+[2025-03-13 22:38:17] - INFO - Splitting the data into training and testing sets
+[2025-03-13 22:38:17] - INFO - Optimizing hyperparameters for Ridge Regression
+[2025-03-13 22:38:18] - INFO - Best params for Ridge Regression: {'alpha': 1.0039353517235015e-05}
+[2025-03-13 22:38:18] - INFO - Optimizing hyperparameters for Lasso Regression
+[2025-03-13 22:38:19] - INFO - Best params for Lasso Regression: {'alpha': 1.0164969083849979e-05}
+[2025-03-13 22:38:19] - INFO - Optimizing hyperparameters for ElasticNet Regression
+[2025-03-13 22:38:21] - INFO - Best params for ElasticNet Regression: {'alpha': 2.293218967408845e-05, 'l1_ratio': 0.9995939977131445}
+[2025-03-13 22:38:21] - INFO - Optimizing hyperparameters for Decision Tree
+[2025-03-13 22:38:24] - INFO - Best params for Decision Tree: {'max_depth': 12, 'min_samples_split': 6}
+[2025-03-13 22:38:24] - INFO - Optimizing hyperparameters for Random Forest
+[2025-03-13 22:47:15] - INFO - >>>>>>>>>>Starting Database Operation<<<<<<<<<<<
+[2025-03-13 22:47:15] - INFO - Connecting to the SQLite database.
+[2025-03-13 22:47:15] - INFO - Creating the table and uploading data.
+[2025-03-13 22:47:15] - INFO - Table created successfully.
+[2025-03-13 22:47:15] - INFO - Uploading data into the table.
+[2025-03-13 22:47:15] - INFO - Data uploaded successfully.
+[2025-03-13 22:47:15] - INFO - >>>>>>>>>>Database Operation completed successfully.<<<<<<<<<<<
+[2025-03-13 22:47:15] - INFO - >>>>>>>>>>Starting Data Ingestion<<<<<<<<<<<
+[2025-03-13 22:47:15] - INFO - Entering the Data Ingestion module
+[2025-03-13 22:47:15] - INFO - Connecting to the SQLite database
+[2025-03-13 22:47:15] - INFO - Fetching all column headers from the table
+[2025-03-13 22:47:15] - INFO - Fetching all rows of data from the table
+[2025-03-13 22:47:16] - INFO - Writing data to CSV
+[2025-03-13 22:47:16] - INFO - Exiting the Data Ingestion module
+[2025-03-13 22:47:17] - INFO - >>>>>>>>>>Data Ingestion completed successfully.<<<<<<<<<<<
+[2025-03-13 22:47:17] - INFO - >>>>>>>>>>Starting Data Cleaning<<<<<<<<<<<
+[2025-03-13 22:47:17] - INFO - Entering the Data Ingestion module
+[2025-03-13 22:47:17] - INFO - Connecting to the SQLite database
+[2025-03-13 22:47:17] - INFO - Fetching all column headers from the table
+[2025-03-13 22:47:17] - INFO - Fetching all rows of data from the table
+[2025-03-13 22:47:18] - INFO - Writing data to CSV
+[2025-03-13 22:47:18] - INFO - Exiting the Data Ingestion module
+[2025-03-13 22:47:20] - INFO - >>>>>>>>>>Data Cleaning completed successfully.<<<<<<<<<<<
+[2025-03-13 22:47:20] - INFO - >>>>>>>>>>Starting Feature Extraction<<<<<<<<<<<
+[2025-03-13 22:47:20] - INFO - Entering the Data Ingestion module
+[2025-03-13 22:47:20] - INFO - Connecting to the SQLite database
+[2025-03-13 22:47:20] - INFO - Fetching all column headers from the table
+[2025-03-13 22:47:20] - INFO - Fetching all rows of data from the table
+[2025-03-13 22:47:21] - INFO - Writing data to CSV
+[2025-03-13 22:47:22] - INFO - Exiting the Data Ingestion module
+[2025-03-13 22:47:25] - INFO - Extracting features from the data.
+[2025-03-13 22:47:25] - INFO - Categorizing the season.
+[2025-03-13 22:47:25] - INFO - Categorizing the time of day.
+[2025-03-13 22:47:25] - INFO - Categorizing the flight duration.
+[2025-03-13 22:47:25] - INFO - Extracting hours from Dep_Time and Arrival_Time columns.
+[2025-03-13 22:47:25] - INFO - Extracting minutes from Dep_Time and Arrival_Time columns.
+[2025-03-13 22:47:25] - INFO - Dropping the original Dep_Time and Arrival_Time columns.
+[2025-03-13 22:47:25] - INFO - Calculating the total stops.
+[2025-03-13 22:47:25] - INFO - Exporting the extracted features to a new CSV file .
+[2025-03-13 22:47:27] - INFO - >>>>>>>>>>Feature Extraction completed successfully.<<<<<<<<<<<
+[2025-03-13 22:47:27] - INFO - >>>>>>>>>>Starting Data Preprocessing<<<<<<<<<<<
+[2025-03-13 22:47:27] - INFO - Entering the Data Ingestion module
+[2025-03-13 22:47:27] - INFO - Connecting to the SQLite database
+[2025-03-13 22:47:27] - INFO - Fetching all column headers from the table
+[2025-03-13 22:47:27] - INFO - Fetching all rows of data from the table
+[2025-03-13 22:47:27] - INFO - Writing data to CSV
+[2025-03-13 22:47:28] - INFO - Exiting the Data Ingestion module
+[2025-03-13 22:47:30] - INFO - Extracting features from the data.
+[2025-03-13 22:47:30] - INFO - Categorizing the season.
+[2025-03-13 22:47:30] - INFO - Categorizing the time of day.
+[2025-03-13 22:47:30] - INFO - Categorizing the flight duration.
+[2025-03-13 22:47:30] - INFO - Extracting hours from Dep_Time and Arrival_Time columns.
+[2025-03-13 22:47:30] - INFO - Extracting minutes from Dep_Time and Arrival_Time columns.
+[2025-03-13 22:47:30] - INFO - Dropping the original Dep_Time and Arrival_Time columns.
+[2025-03-13 22:47:31] - INFO - Calculating the total stops.
+[2025-03-13 22:47:31] - INFO - Exporting the extracted features to a new CSV file .
+[2025-03-13 22:47:32] - INFO - Removing the rows with missing values
+[2025-03-13 22:47:32] - INFO - Removing the duplicate rows
+[2025-03-13 22:47:32] - INFO - Removing the columns which are not required
+[2025-03-13 22:47:32] - INFO - Identifying the categorical columns
+[2025-03-13 22:47:32] - INFO - Converting the categorical columns using level encoding
+[2025-03-13 22:47:32] - INFO - Saving the preprocessed data
+[2025-03-13 22:47:32] - INFO - >>>>>>>>>>Data Preprocessing completed successfully.<<<<<<<<<<<
+[2025-03-13 22:47:32] - INFO - >>>>>>>>>>Starting Model Building<<<<<<<<<<<
+[2025-03-13 22:47:32] - INFO - Entering the Data Ingestion module
+[2025-03-13 22:47:32] - INFO - Connecting to the SQLite database
+[2025-03-13 22:47:32] - INFO - Fetching all column headers from the table
+[2025-03-13 22:47:32] - INFO - Fetching all rows of data from the table
+[2025-03-13 22:47:33] - INFO - Writing data to CSV
+[2025-03-13 22:47:34] - INFO - Exiting the Data Ingestion module
+[2025-03-13 22:47:36] - INFO - Extracting features from the data.
+[2025-03-13 22:47:36] - INFO - Categorizing the season.
+[2025-03-13 22:47:36] - INFO - Categorizing the time of day.
+[2025-03-13 22:47:36] - INFO - Categorizing the flight duration.
+[2025-03-13 22:47:36] - INFO - Extracting hours from Dep_Time and Arrival_Time columns.
+[2025-03-13 22:47:36] - INFO - Extracting minutes from Dep_Time and Arrival_Time columns.
+[2025-03-13 22:47:37] - INFO - Dropping the original Dep_Time and Arrival_Time columns.
+[2025-03-13 22:47:37] - INFO - Calculating the total stops.
+[2025-03-13 22:47:37] - INFO - Exporting the extracted features to a new CSV file .
+[2025-03-13 22:47:38] - INFO - Removing the rows with missing values
+[2025-03-13 22:47:38] - INFO - Removing the duplicate rows
+[2025-03-13 22:47:38] - INFO - Removing the columns which are not required
+[2025-03-13 22:47:38] - INFO - Identifying the categorical columns
+[2025-03-13 22:47:38] - INFO - Converting the categorical columns using level encoding
+[2025-03-13 22:47:38] - INFO - Saving the preprocessed data
+[2025-03-13 22:47:39] - INFO - Splitting the data into features and target
+[2025-03-13 22:47:39] - INFO - Standardizing the data
+[2025-03-13 22:47:39] - INFO - Splitting the data into training and testing sets
+[2025-03-13 22:47:39] - INFO - Optimizing hyperparameters for Ridge Regression
+[2025-03-13 22:47:40] - ERROR - Error occurred in python script name [e:\Neoron\Programming_Practice\Machine_Learning_Project\Flight price prediction\src\FlightPricePrediction\components\model_build_06.py] line number [369] error message[No trials are completed yet.]
+[2025-03-13 22:49:37] - INFO - >>>>>>>>>>Starting Database Operation<<<<<<<<<<<
+[2025-03-13 22:49:37] - INFO - Connecting to the SQLite database.
+[2025-03-13 22:49:37] - INFO - Creating the table and uploading data.
+[2025-03-13 22:49:37] - INFO - Table created successfully.
+[2025-03-13 22:49:37] - INFO - Uploading data into the table.
+[2025-03-13 22:49:37] - INFO - Data uploaded successfully.
+[2025-03-13 22:49:38] - INFO - >>>>>>>>>>Database Operation completed successfully.<<<<<<<<<<<
+[2025-03-13 22:49:38] - INFO - >>>>>>>>>>Starting Data Ingestion<<<<<<<<<<<
+[2025-03-13 22:49:38] - INFO - Entering the Data Ingestion module
+[2025-03-13 22:49:38] - INFO - Connecting to the SQLite database
+[2025-03-13 22:49:38] - INFO - Fetching all column headers from the table
+[2025-03-13 22:49:38] - INFO - Fetching all rows of data from the table
+[2025-03-13 22:49:38] - INFO - Writing data to CSV
+[2025-03-13 22:49:39] - INFO - Exiting the Data Ingestion module
+[2025-03-13 22:49:40] - INFO - >>>>>>>>>>Data Ingestion completed successfully.<<<<<<<<<<<
+[2025-03-13 22:49:40] - INFO - >>>>>>>>>>Starting Data Cleaning<<<<<<<<<<<
+[2025-03-13 22:49:40] - INFO - Entering the Data Ingestion module
+[2025-03-13 22:49:40] - INFO - Connecting to the SQLite database
+[2025-03-13 22:49:40] - INFO - Fetching all column headers from the table
+[2025-03-13 22:49:40] - INFO - Fetching all rows of data from the table
+[2025-03-13 22:49:40] - INFO - Writing data to CSV
+[2025-03-13 22:49:41] - INFO - Exiting the Data Ingestion module
+[2025-03-13 22:49:44] - INFO - >>>>>>>>>>Data Cleaning completed successfully.<<<<<<<<<<<
+[2025-03-13 22:49:44] - INFO - >>>>>>>>>>Starting Feature Extraction<<<<<<<<<<<
+[2025-03-13 22:49:44] - INFO - Entering the Data Ingestion module
+[2025-03-13 22:49:44] - INFO - Connecting to the SQLite database
+[2025-03-13 22:49:44] - INFO - Fetching all column headers from the table
+[2025-03-13 22:49:44] - INFO - Fetching all rows of data from the table
+[2025-03-13 22:49:44] - INFO - Writing data to CSV
+[2025-03-13 22:49:45] - INFO - Exiting the Data Ingestion module
+[2025-03-13 22:49:47] - INFO - Extracting features from the data.
+[2025-03-13 22:49:47] - INFO - Categorizing the season.
+[2025-03-13 22:49:47] - INFO - Categorizing the time of day.
+[2025-03-13 22:49:48] - INFO - Categorizing the flight duration.
+[2025-03-13 22:49:48] - INFO - Extracting hours from Dep_Time and Arrival_Time columns.
+[2025-03-13 22:49:48] - INFO - Extracting minutes from Dep_Time and Arrival_Time columns.
+[2025-03-13 22:49:48] - INFO - Dropping the original Dep_Time and Arrival_Time columns.
+[2025-03-13 22:49:48] - INFO - Calculating the total stops.
+[2025-03-13 22:49:48] - INFO - Exporting the extracted features to a new CSV file .
+[2025-03-13 22:49:50] - INFO - >>>>>>>>>>Feature Extraction completed successfully.<<<<<<<<<<<
+[2025-03-13 22:49:50] - INFO - >>>>>>>>>>Starting Data Preprocessing<<<<<<<<<<<
+[2025-03-13 22:49:50] - INFO - Entering the Data Ingestion module
+[2025-03-13 22:49:50] - INFO - Connecting to the SQLite database
+[2025-03-13 22:49:50] - INFO - Fetching all column headers from the table
+[2025-03-13 22:49:50] - INFO - Fetching all rows of data from the table
+[2025-03-13 22:49:50] - INFO - Writing data to CSV
+[2025-03-13 22:49:51] - INFO - Exiting the Data Ingestion module
+[2025-03-13 22:49:53] - INFO - Extracting features from the data.
+[2025-03-13 22:49:53] - INFO - Categorizing the season.
+[2025-03-13 22:49:53] - INFO - Categorizing the time of day.
+[2025-03-13 22:49:54] - INFO - Categorizing the flight duration.
+[2025-03-13 22:49:54] - INFO - Extracting hours from Dep_Time and Arrival_Time columns.
+[2025-03-13 22:49:54] - INFO - Extracting minutes from Dep_Time and Arrival_Time columns.
+[2025-03-13 22:49:54] - INFO - Dropping the original Dep_Time and Arrival_Time columns.
+[2025-03-13 22:49:54] - INFO - Calculating the total stops.
+[2025-03-13 22:49:54] - INFO - Exporting the extracted features to a new CSV file .
+[2025-03-13 22:49:55] - INFO - Removing the rows with missing values
+[2025-03-13 22:49:56] - INFO - Removing the duplicate rows
+[2025-03-13 22:49:56] - INFO - Removing the columns which are not required
+[2025-03-13 22:49:56] - INFO - Identifying the categorical columns
+[2025-03-13 22:49:56] - INFO - Converting the categorical columns using level encoding
+[2025-03-13 22:49:56] - INFO - Saving the preprocessed data
+[2025-03-13 22:49:56] - INFO - >>>>>>>>>>Data Preprocessing completed successfully.<<<<<<<<<<<
+[2025-03-13 22:49:56] - INFO - >>>>>>>>>>Starting Model Building<<<<<<<<<<<
+[2025-03-13 22:49:56] - INFO - Entering the Data Ingestion module
+[2025-03-13 22:49:56] - INFO - Connecting to the SQLite database
+[2025-03-13 22:49:56] - INFO - Fetching all column headers from the table
+[2025-03-13 22:49:56] - INFO - Fetching all rows of data from the table
+[2025-03-13 22:49:57] - INFO - Writing data to CSV
+[2025-03-13 22:49:57] - INFO - Exiting the Data Ingestion module
+[2025-03-13 22:50:00] - INFO - Extracting features from the data.
+[2025-03-13 22:50:00] - INFO - Categorizing the season.
+[2025-03-13 22:50:00] - INFO - Categorizing the time of day.
+[2025-03-13 22:50:00] - INFO - Categorizing the flight duration.
+[2025-03-13 22:50:00] - INFO - Extracting hours from Dep_Time and Arrival_Time columns.
+[2025-03-13 22:50:00] - INFO - Extracting minutes from Dep_Time and Arrival_Time columns.
+[2025-03-13 22:50:00] - INFO - Dropping the original Dep_Time and Arrival_Time columns.
+[2025-03-13 22:50:00] - INFO - Calculating the total stops.
+[2025-03-13 22:50:00] - INFO - Exporting the extracted features to a new CSV file .
+[2025-03-13 22:50:02] - INFO - Removing the rows with missing values
+[2025-03-13 22:50:02] - INFO - Removing the duplicate rows
+[2025-03-13 22:50:02] - INFO - Removing the columns which are not required
+[2025-03-13 22:50:02] - INFO - Identifying the categorical columns
+[2025-03-13 22:50:02] - INFO - Converting the categorical columns using level encoding
+[2025-03-13 22:50:02] - INFO - Saving the preprocessed data
+[2025-03-13 22:50:02] - INFO - Splitting the data into features and target
+[2025-03-13 22:50:02] - INFO - Standardizing the data
+[2025-03-13 22:50:02] - INFO - Splitting the data into training and testing sets
+[2025-03-13 22:50:02] - INFO - Optimizing hyperparameters for Ridge Regression
+[2025-03-13 22:50:03] - ERROR - Error occurred in python script name [e:\Neoron\Programming_Practice\Machine_Learning_Project\Flight price prediction\src\FlightPricePrediction\components\model_build_06.py] line number [369] error message[No trials are completed yet.]
+[2025-03-13 22:53:41] - INFO - >>>>>>>>>>Starting Database Operation<<<<<<<<<<<
+[2025-03-13 22:53:41] - INFO - Connecting to the SQLite database.
+[2025-03-13 22:53:41] - INFO - Creating the table and uploading data.
+[2025-03-13 22:53:41] - INFO - Table created successfully.
+[2025-03-13 22:53:41] - INFO - Uploading data into the table.
+[2025-03-13 22:53:41] - INFO - Data uploaded successfully.
+[2025-03-13 22:53:41] - INFO - >>>>>>>>>>Database Operation completed successfully.<<<<<<<<<<<
+[2025-03-13 22:53:41] - INFO - >>>>>>>>>>Starting Data Ingestion<<<<<<<<<<<
+[2025-03-13 22:53:41] - INFO - Entering the Data Ingestion module
+[2025-03-13 22:53:41] - INFO - Connecting to the SQLite database
+[2025-03-13 22:53:41] - INFO - Fetching all column headers from the table
+[2025-03-13 22:53:41] - INFO - Fetching all rows of data from the table
+[2025-03-13 22:53:42] - INFO - Writing data to CSV
+[2025-03-13 22:53:43] - INFO - Exiting the Data Ingestion module
+[2025-03-13 22:53:43] - INFO - >>>>>>>>>>Data Ingestion completed successfully.<<<<<<<<<<<
+[2025-03-13 22:53:43] - INFO - >>>>>>>>>>Starting Data Cleaning<<<<<<<<<<<
+[2025-03-13 22:53:43] - INFO - Entering the Data Ingestion module
+[2025-03-13 22:53:43] - INFO - Connecting to the SQLite database
+[2025-03-13 22:53:43] - INFO - Fetching all column headers from the table
+[2025-03-13 22:53:43] - INFO - Fetching all rows of data from the table
+[2025-03-13 22:53:44] - INFO - Writing data to CSV
+[2025-03-13 22:53:45] - INFO - Exiting the Data Ingestion module
+[2025-03-13 22:53:48] - INFO - >>>>>>>>>>Data Cleaning completed successfully.<<<<<<<<<<<
+[2025-03-13 22:53:48] - INFO - >>>>>>>>>>Starting Feature Extraction<<<<<<<<<<<
+[2025-03-13 22:53:48] - INFO - Entering the Data Ingestion module
+[2025-03-13 22:53:48] - INFO - Connecting to the SQLite database
+[2025-03-13 22:53:48] - INFO - Fetching all column headers from the table
+[2025-03-13 22:53:48] - INFO - Fetching all rows of data from the table
+[2025-03-13 22:53:48] - INFO - Writing data to CSV
+[2025-03-13 22:53:49] - INFO - Exiting the Data Ingestion module
+[2025-03-13 22:53:52] - INFO - Extracting features from the data.
+[2025-03-13 22:53:52] - INFO - Categorizing the season.
+[2025-03-13 22:53:52] - INFO - Categorizing the time of day.
+[2025-03-13 22:53:52] - INFO - Categorizing the flight duration.
+[2025-03-13 22:53:52] - INFO - Extracting hours from Dep_Time and Arrival_Time columns.
+[2025-03-13 22:53:52] - INFO - Extracting minutes from Dep_Time and Arrival_Time columns.
+[2025-03-13 22:53:52] - INFO - Dropping the original Dep_Time and Arrival_Time columns.
+[2025-03-13 22:53:52] - INFO - Calculating the total stops.
+[2025-03-13 22:53:53] - INFO - Exporting the extracted features to a new CSV file .
+[2025-03-13 22:53:54] - INFO - >>>>>>>>>>Feature Extraction completed successfully.<<<<<<<<<<<
+[2025-03-13 22:53:54] - INFO - >>>>>>>>>>Starting Data Preprocessing<<<<<<<<<<<
+[2025-03-13 22:53:54] - INFO - Entering the Data Ingestion module
+[2025-03-13 22:53:54] - INFO - Connecting to the SQLite database
+[2025-03-13 22:53:54] - INFO - Fetching all column headers from the table
+[2025-03-13 22:53:54] - INFO - Fetching all rows of data from the table
+[2025-03-13 22:53:55] - INFO - Writing data to CSV
+[2025-03-13 22:53:56] - INFO - Exiting the Data Ingestion module
+[2025-03-13 22:53:59] - INFO - Extracting features from the data.
+[2025-03-13 22:53:59] - INFO - Categorizing the season.
+[2025-03-13 22:53:59] - INFO - Categorizing the time of day.
+[2025-03-13 22:53:59] - INFO - Categorizing the flight duration.
+[2025-03-13 22:53:59] - INFO - Extracting hours from Dep_Time and Arrival_Time columns.
+[2025-03-13 22:53:59] - INFO - Extracting minutes from Dep_Time and Arrival_Time columns.
+[2025-03-13 22:53:59] - INFO - Dropping the original Dep_Time and Arrival_Time columns.
+[2025-03-13 22:54:00] - INFO - Calculating the total stops.
+[2025-03-13 22:54:00] - INFO - Exporting the extracted features to a new CSV file .
+[2025-03-13 22:54:01] - INFO - Removing the rows with missing values
+[2025-03-13 22:54:02] - INFO - Removing the duplicate rows
+[2025-03-13 22:54:02] - INFO - Removing the columns which are not required
+[2025-03-13 22:54:02] - INFO - Identifying the categorical columns
+[2025-03-13 22:54:02] - INFO - Converting the categorical columns using level encoding
+[2025-03-13 22:54:02] - INFO - Saving the preprocessed data
+[2025-03-13 22:54:02] - INFO - >>>>>>>>>>Data Preprocessing completed successfully.<<<<<<<<<<<
+[2025-03-13 22:54:02] - INFO - >>>>>>>>>>Starting Model Building<<<<<<<<<<<
+[2025-03-13 22:54:02] - INFO - Entering the Data Ingestion module
+[2025-03-13 22:54:02] - INFO - Connecting to the SQLite database
+[2025-03-13 22:54:02] - INFO - Fetching all column headers from the table
+[2025-03-13 22:54:02] - INFO - Fetching all rows of data from the table
+[2025-03-13 22:54:03] - INFO - Writing data to CSV
+[2025-03-13 22:54:04] - INFO - Exiting the Data Ingestion module
+[2025-03-13 22:54:06] - INFO - Extracting features from the data.
+[2025-03-13 22:54:06] - INFO - Categorizing the season.
+[2025-03-13 22:54:06] - INFO - Categorizing the time of day.
+[2025-03-13 22:54:06] - INFO - Categorizing the flight duration.
+[2025-03-13 22:54:07] - INFO - Extracting hours from Dep_Time and Arrival_Time columns.
+[2025-03-13 22:54:07] - INFO - Extracting minutes from Dep_Time and Arrival_Time columns.
+[2025-03-13 22:54:07] - INFO - Dropping the original Dep_Time and Arrival_Time columns.
+[2025-03-13 22:54:07] - INFO - Calculating the total stops.
+[2025-03-13 22:54:07] - INFO - Exporting the extracted features to a new CSV file .
+[2025-03-13 22:54:08] - INFO - Removing the rows with missing values
+[2025-03-13 22:54:09] - INFO - Removing the duplicate rows
+[2025-03-13 22:54:09] - INFO - Removing the columns which are not required
+[2025-03-13 22:54:09] - INFO - Identifying the categorical columns
+[2025-03-13 22:54:09] - INFO - Converting the categorical columns using level encoding
+[2025-03-13 22:54:09] - INFO - Saving the preprocessed data
+[2025-03-13 22:54:09] - INFO - Splitting the data into features and target
+[2025-03-13 22:54:09] - INFO - Standardizing the data
+[2025-03-13 22:54:09] - INFO - Splitting the data into training and testing sets
+[2025-03-13 22:54:09] - INFO - Optimizing hyperparameters for Ridge Regression
+[2025-03-13 22:54:10] - ERROR - Error occurred in python script name [e:\Neoron\Programming_Practice\Machine_Learning_Project\Flight price prediction\src\FlightPricePrediction\components\model_build_06.py] line number [390] error message[No trials are completed yet.]
+[2025-03-13 23:04:26] - INFO - >>>>>>>>>>Starting Database Operation<<<<<<<<<<<
+[2025-03-13 23:04:26] - INFO - Connecting to the SQLite database.
+[2025-03-13 23:04:26] - INFO - Creating the table and uploading data.
+[2025-03-13 23:04:26] - INFO - Table created successfully.
+[2025-03-13 23:04:26] - INFO - Uploading data into the table.
+[2025-03-13 23:04:26] - INFO - Data uploaded successfully.
+[2025-03-13 23:04:26] - INFO - >>>>>>>>>>Database Operation completed successfully.<<<<<<<<<<<
+[2025-03-13 23:04:26] - INFO - >>>>>>>>>>Starting Data Ingestion<<<<<<<<<<<
+[2025-03-13 23:04:26] - INFO - Entering the Data Ingestion module
+[2025-03-13 23:04:26] - INFO - Connecting to the SQLite database
+[2025-03-13 23:04:26] - INFO - Fetching all column headers from the table
+[2025-03-13 23:04:26] - INFO - Fetching all rows of data from the table
+[2025-03-13 23:04:27] - INFO - Writing data to CSV
+[2025-03-13 23:04:28] - INFO - Exiting the Data Ingestion module
+[2025-03-13 23:04:29] - INFO - >>>>>>>>>>Data Ingestion completed successfully.<<<<<<<<<<<
+[2025-03-13 23:04:29] - INFO - >>>>>>>>>>Starting Data Cleaning<<<<<<<<<<<
+[2025-03-13 23:04:29] - INFO - Entering the Data Ingestion module
+[2025-03-13 23:04:29] - INFO - Connecting to the SQLite database
+[2025-03-13 23:04:29] - INFO - Fetching all column headers from the table
+[2025-03-13 23:04:29] - INFO - Fetching all rows of data from the table
+[2025-03-13 23:04:29] - INFO - Writing data to CSV
+[2025-03-13 23:04:30] - INFO - Exiting the Data Ingestion module
+[2025-03-13 23:04:33] - INFO - >>>>>>>>>>Data Cleaning completed successfully.<<<<<<<<<<<
+[2025-03-13 23:04:33] - INFO - >>>>>>>>>>Starting Feature Extraction<<<<<<<<<<<
+[2025-03-13 23:04:33] - INFO - Entering the Data Ingestion module
+[2025-03-13 23:04:33] - INFO - Connecting to the SQLite database
+[2025-03-13 23:04:33] - INFO - Fetching all column headers from the table
+[2025-03-13 23:04:33] - INFO - Fetching all rows of data from the table
+[2025-03-13 23:04:34] - INFO - Writing data to CSV
+[2025-03-13 23:04:35] - INFO - Exiting the Data Ingestion module
+[2025-03-13 23:04:37] - INFO - Extracting features from the data.
+[2025-03-13 23:04:37] - INFO - Categorizing the season.
+[2025-03-13 23:04:37] - INFO - Categorizing the time of day.
+[2025-03-13 23:04:37] - INFO - Categorizing the flight duration.
+[2025-03-13 23:04:37] - INFO - Extracting hours from Dep_Time and Arrival_Time columns.
+[2025-03-13 23:04:38] - INFO - Extracting minutes from Dep_Time and Arrival_Time columns.
+[2025-03-13 23:04:38] - INFO - Dropping the original Dep_Time and Arrival_Time columns.
+[2025-03-13 23:04:38] - INFO - Calculating the total stops.
+[2025-03-13 23:04:38] - INFO - Exporting the extracted features to a new CSV file .
+[2025-03-13 23:04:40] - INFO - >>>>>>>>>>Feature Extraction completed successfully.<<<<<<<<<<<
+[2025-03-13 23:04:40] - INFO - >>>>>>>>>>Starting Data Preprocessing<<<<<<<<<<<
+[2025-03-13 23:04:40] - INFO - Entering the Data Ingestion module
+[2025-03-13 23:04:40] - INFO - Connecting to the SQLite database
+[2025-03-13 23:04:40] - INFO - Fetching all column headers from the table
+[2025-03-13 23:04:40] - INFO - Fetching all rows of data from the table
+[2025-03-13 23:04:40] - INFO - Writing data to CSV
+[2025-03-13 23:04:41] - INFO - Exiting the Data Ingestion module
+[2025-03-13 23:04:44] - INFO - Extracting features from the data.
+[2025-03-13 23:04:44] - INFO - Categorizing the season.
+[2025-03-13 23:04:44] - INFO - Categorizing the time of day.
+[2025-03-13 23:04:44] - INFO - Categorizing the flight duration.
+[2025-03-13 23:04:44] - INFO - Extracting hours from Dep_Time and Arrival_Time columns.
+[2025-03-13 23:04:44] - INFO - Extracting minutes from Dep_Time and Arrival_Time columns.
+[2025-03-13 23:04:44] - INFO - Dropping the original Dep_Time and Arrival_Time columns.
+[2025-03-13 23:04:44] - INFO - Calculating the total stops.
+[2025-03-13 23:04:45] - INFO - Exporting the extracted features to a new CSV file .
+[2025-03-13 23:04:46] - INFO - Removing the rows with missing values
+[2025-03-13 23:04:46] - INFO - Removing the duplicate rows
+[2025-03-13 23:04:47] - INFO - Removing the columns which are not required
+[2025-03-13 23:04:47] - INFO - Identifying the categorical columns
+[2025-03-13 23:04:47] - INFO - Converting the categorical columns using level encoding
+[2025-03-13 23:04:47] - INFO - Saving the preprocessed data
+[2025-03-13 23:04:47] - INFO - >>>>>>>>>>Data Preprocessing completed successfully.<<<<<<<<<<<
+[2025-03-13 23:04:47] - INFO - >>>>>>>>>>Starting Model Building<<<<<<<<<<<
+[2025-03-13 23:04:47] - INFO - Entering the Data Ingestion module
+[2025-03-13 23:04:47] - INFO - Connecting to the SQLite database
+[2025-03-13 23:04:47] - INFO - Fetching all column headers from the table
+[2025-03-13 23:04:47] - INFO - Fetching all rows of data from the table
+[2025-03-13 23:04:48] - INFO - Writing data to CSV
+[2025-03-13 23:04:48] - INFO - Exiting the Data Ingestion module
+[2025-03-13 23:04:51] - INFO - Extracting features from the data.
+[2025-03-13 23:04:51] - INFO - Categorizing the season.
+[2025-03-13 23:04:51] - INFO - Categorizing the time of day.
+[2025-03-13 23:04:51] - INFO - Categorizing the flight duration.
+[2025-03-13 23:04:51] - INFO - Extracting hours from Dep_Time and Arrival_Time columns.
+[2025-03-13 23:04:52] - INFO - Extracting minutes from Dep_Time and Arrival_Time columns.
+[2025-03-13 23:04:52] - INFO - Dropping the original Dep_Time and Arrival_Time columns.
+[2025-03-13 23:04:52] - INFO - Calculating the total stops.
+[2025-03-13 23:04:52] - INFO - Exporting the extracted features to a new CSV file .
+[2025-03-13 23:04:54] - INFO - Removing the rows with missing values
+[2025-03-13 23:04:54] - INFO - Removing the duplicate rows
+[2025-03-13 23:04:54] - INFO - Removing the columns which are not required
+[2025-03-13 23:04:54] - INFO - Identifying the categorical columns
+[2025-03-13 23:04:54] - INFO - Converting the categorical columns using level encoding
+[2025-03-13 23:04:54] - INFO - Saving the preprocessed data
+[2025-03-13 23:04:54] - INFO - Splitting the data into features and target
+[2025-03-13 23:04:54] - INFO - Standardizing the data
+[2025-03-13 23:04:54] - INFO - Splitting the data into training and testing sets
+[2025-03-13 23:04:54] - INFO - Starting optimization for Ridge Regression
+[2025-03-13 23:04:55] - INFO - Best params for Ridge Regression: {'alpha': 1.001411230247153e-05}
+[2025-03-13 23:04:55] - INFO - Starting optimization for Lasso Regression
+[2025-03-13 23:04:56] - INFO - Best params for Lasso Regression: {'alpha': 1.0266545422876092e-05}
+[2025-03-13 23:04:56] - INFO - Starting optimization for ElasticNet Regression
+[2025-03-13 23:04:58] - INFO - Best params for ElasticNet Regression: {'alpha': 0.0001413513968367418, 'l1_ratio': 0.998318121718948}
+[2025-03-13 23:04:58] - INFO - Starting optimization for Random Forest
+[2025-03-13 23:15:12] - INFO - Best params for Random Forest: {'n_estimators': 497, 'max_depth': 13}
+[2025-03-13 23:15:12] - INFO - Starting optimization for Gradient Boosting
+[2025-03-13 23:18:53] - INFO - Best params for Gradient Boosting: {'n_estimators': 444, 'learning_rate': 0.0924744463979661}
+[2025-03-13 23:18:53] - INFO - Starting optimization for SVR
+[2025-03-13 23:22:41] - INFO - Best params for SVR: {'C': 99.59483555653443, 'gamma': 'auto', 'kernel': 'linear'}
+[2025-03-13 23:22:42] - INFO - Training the best model: Random Forest with optimized parameters
+[2025-03-13 23:22:57] - INFO - Final Model: Random Forest
+[2025-03-13 23:22:57] - INFO - Train RMSE: 1205.988984420878, Train R^2: 0.9328139255629935
+[2025-03-13 23:22:57] - INFO - Test RMSE: 1814.6685266887666, Test R^2: 0.8379142006940572
+[2025-03-13 23:22:58] - INFO - >>>>>>>>>>Model Building completed successfully.<<<<<<<<<<<
+[2025-03-14 09:54:53] - INFO - >>>>>>>>>>Starting Database Operation<<<<<<<<<<<
+[2025-03-14 09:54:53] - INFO - Connecting to the SQLite database.
+[2025-03-14 09:54:53] - INFO - Creating the table and uploading data.
+[2025-03-14 09:54:53] - INFO - Table created successfully.
+[2025-03-14 09:54:53] - INFO - Uploading data into the table.
+[2025-03-14 09:54:53] - INFO - Data uploaded successfully.
+[2025-03-14 09:54:54] - INFO - >>>>>>>>>>Database Operation completed successfully.<<<<<<<<<<<
+[2025-03-14 09:54:54] - INFO - >>>>>>>>>>Starting Data Ingestion<<<<<<<<<<<
+[2025-03-14 09:54:54] - INFO - Entering the Data Ingestion module
+[2025-03-14 09:54:54] - INFO - Connecting to the SQLite database
+[2025-03-14 09:54:54] - INFO - Fetching all column headers from the table
+[2025-03-14 09:54:54] - INFO - Fetching all rows of data from the table
+[2025-03-14 09:54:55] - INFO - Writing data to CSV
+[2025-03-14 09:54:56] - INFO - Exiting the Data Ingestion module
+[2025-03-14 09:54:57] - INFO - >>>>>>>>>>Data Ingestion completed successfully.<<<<<<<<<<<
+[2025-03-14 09:54:57] - INFO - >>>>>>>>>>Starting Data Cleaning<<<<<<<<<<<
+[2025-03-14 09:54:57] - INFO - Entering the Data Ingestion module
+[2025-03-14 09:54:57] - INFO - Connecting to the SQLite database
+[2025-03-14 09:54:57] - INFO - Fetching all column headers from the table
+[2025-03-14 09:54:57] - INFO - Fetching all rows of data from the table
+[2025-03-14 09:54:58] - INFO - Writing data to CSV
+[2025-03-14 09:54:59] - INFO - Exiting the Data Ingestion module
+[2025-03-14 09:55:02] - INFO - >>>>>>>>>>Data Cleaning completed successfully.<<<<<<<<<<<
+[2025-03-14 09:55:02] - INFO - >>>>>>>>>>Starting Feature Extraction<<<<<<<<<<<
+[2025-03-14 09:55:02] - INFO - Entering the Data Ingestion module
+[2025-03-14 09:55:02] - INFO - Connecting to the SQLite database
+[2025-03-14 09:55:02] - INFO - Fetching all column headers from the table
+[2025-03-14 09:55:02] - INFO - Fetching all rows of data from the table
+[2025-03-14 09:55:03] - INFO - Writing data to CSV
+[2025-03-14 09:55:04] - INFO - Exiting the Data Ingestion module
+[2025-03-14 09:55:06] - INFO - Extracting features from the data.
+[2025-03-14 09:55:07] - INFO - Categorizing the season.
+[2025-03-14 09:55:07] - INFO - Categorizing the time of day.
+[2025-03-14 09:55:07] - INFO - Categorizing the flight duration.
+[2025-03-14 09:55:07] - INFO - Extracting hours from Dep_Time and Arrival_Time columns.
+[2025-03-14 09:55:07] - INFO - Extracting minutes from Dep_Time and Arrival_Time columns.
+[2025-03-14 09:55:07] - INFO - Dropping the original Dep_Time and Arrival_Time columns.
+[2025-03-14 09:55:07] - INFO - Calculating the total stops.
+[2025-03-14 09:55:07] - INFO - Exporting the extracted features to a new CSV file .
+[2025-03-14 09:55:09] - INFO - >>>>>>>>>>Feature Extraction completed successfully.<<<<<<<<<<<
+[2025-03-14 09:55:09] - INFO - >>>>>>>>>>Starting Data Preprocessing<<<<<<<<<<<
+[2025-03-14 09:55:09] - INFO - Entering the Data Ingestion module
+[2025-03-14 09:55:09] - INFO - Connecting to the SQLite database
+[2025-03-14 09:55:09] - INFO - Fetching all column headers from the table
+[2025-03-14 09:55:09] - INFO - Fetching all rows of data from the table
+[2025-03-14 09:55:10] - INFO - Writing data to CSV
+[2025-03-14 09:55:11] - INFO - Exiting the Data Ingestion module
+[2025-03-14 09:55:14] - INFO - Extracting features from the data.
+[2025-03-14 09:55:14] - INFO - Categorizing the season.
+[2025-03-14 09:55:14] - INFO - Categorizing the time of day.
+[2025-03-14 09:55:14] - INFO - Categorizing the flight duration.
+[2025-03-14 09:55:14] - INFO - Extracting hours from Dep_Time and Arrival_Time columns.
+[2025-03-14 09:55:14] - INFO - Extracting minutes from Dep_Time and Arrival_Time columns.
+[2025-03-14 09:55:14] - INFO - Dropping the original Dep_Time and Arrival_Time columns.
+[2025-03-14 09:55:14] - INFO - Calculating the total stops.
+[2025-03-14 09:55:14] - INFO - Exporting the extracted features to a new CSV file .
+[2025-03-14 09:55:16] - INFO - Removing the rows with missing values
+[2025-03-14 09:55:16] - INFO - Removing the duplicate rows
+[2025-03-14 09:55:17] - INFO - Removing the columns which are not required
+[2025-03-14 09:55:17] - INFO - Identifying the categorical columns
+[2025-03-14 09:55:17] - INFO - Converting the categorical columns using level encoding
+[2025-03-14 09:55:17] - INFO - Saving the preprocessed data
+[2025-03-14 09:55:17] - INFO - >>>>>>>>>>Data Preprocessing completed successfully.<<<<<<<<<<<
+[2025-03-14 09:55:17] - INFO - >>>>>>>>>>Starting Model Building<<<<<<<<<<<
+[2025-03-14 09:55:17] - INFO - Entering the Data Ingestion module
+[2025-03-14 09:55:17] - INFO - Connecting to the SQLite database
+[2025-03-14 09:55:17] - INFO - Fetching all column headers from the table
+[2025-03-14 09:55:17] - INFO - Fetching all rows of data from the table
+[2025-03-14 09:55:18] - INFO - Writing data to CSV
+[2025-03-14 09:55:19] - INFO - Exiting the Data Ingestion module
+[2025-03-14 09:55:22] - INFO - Extracting features from the data.
+[2025-03-14 09:55:22] - INFO - Categorizing the season.
+[2025-03-14 09:55:22] - INFO - Categorizing the time of day.
+[2025-03-14 09:55:22] - INFO - Categorizing the flight duration.
+[2025-03-14 09:55:22] - INFO - Extracting hours from Dep_Time and Arrival_Time columns.
+[2025-03-14 09:55:22] - INFO - Extracting minutes from Dep_Time and Arrival_Time columns.
+[2025-03-14 09:55:22] - INFO - Dropping the original Dep_Time and Arrival_Time columns.
+[2025-03-14 09:55:22] - INFO - Calculating the total stops.
+[2025-03-14 09:55:23] - INFO - Exporting the extracted features to a new CSV file .
+[2025-03-14 09:55:24] - INFO - Removing the rows with missing values
+[2025-03-14 09:55:24] - INFO - Removing the duplicate rows
+[2025-03-14 09:55:25] - INFO - Removing the columns which are not required
+[2025-03-14 09:55:25] - INFO - Identifying the categorical columns
+[2025-03-14 09:55:25] - INFO - Converting the categorical columns using level encoding
+[2025-03-14 09:55:25] - INFO - Saving the preprocessed data
+[2025-03-14 09:55:25] - INFO - Splitting the data into features and target
+[2025-03-14 09:55:25] - INFO - Standardizing the data
+[2025-03-14 09:55:25] - INFO - Determining the optimal number of clusters using the Elbow Method
+[2025-03-14 09:56:41] - INFO - Optimal number of clusters: 2
+[2025-03-14 09:56:41] - INFO - Applying KMeans clustering with 2 clusters
+[2025-03-14 09:56:41] - INFO - Creating a dictionary of regression models to test
+[2025-03-14 09:56:41] - INFO - Looping through clusters and models
+[2025-03-14 09:56:56] - INFO - Converting the list of results into a DataFrame
+[2025-03-14 09:56:56] - INFO - Training the best model (Random Forest)
+[2025-03-14 09:57:01] - INFO - Saving the trained model to a file
+[2025-03-14 09:57:01] - INFO - >>>>>>>>>>Model Building completed successfully.<<<<<<<<<<<
+[2025-03-14 09:59:41] - INFO - >>>>>>>>>>Starting Database Operation<<<<<<<<<<<
+[2025-03-14 09:59:41] - INFO - Connecting to the SQLite database.
+[2025-03-14 09:59:42] - INFO - Creating the table and uploading data.
+[2025-03-14 09:59:42] - INFO - Table created successfully.
+[2025-03-14 09:59:42] - INFO - Uploading data into the table.
+[2025-03-14 09:59:42] - INFO - Data uploaded successfully.
+[2025-03-14 09:59:42] - INFO - >>>>>>>>>>Database Operation completed successfully.<<<<<<<<<<<
+[2025-03-14 09:59:42] - INFO - >>>>>>>>>>Starting Data Ingestion<<<<<<<<<<<
+[2025-03-14 09:59:42] - INFO - Entering the Data Ingestion module
+[2025-03-14 09:59:42] - INFO - Connecting to the SQLite database
+[2025-03-14 09:59:42] - INFO - Fetching all column headers from the table
+[2025-03-14 09:59:42] - INFO - Fetching all rows of data from the table
+[2025-03-14 09:59:44] - INFO - Writing data to CSV
+[2025-03-14 09:59:45] - INFO - Exiting the Data Ingestion module
+[2025-03-14 09:59:45] - INFO - >>>>>>>>>>Data Ingestion completed successfully.<<<<<<<<<<<
+[2025-03-14 09:59:45] - INFO - >>>>>>>>>>Starting Data Cleaning<<<<<<<<<<<
+[2025-03-14 09:59:45] - INFO - Entering the Data Ingestion module
+[2025-03-14 09:59:45] - INFO - Connecting to the SQLite database
+[2025-03-14 09:59:45] - INFO - Fetching all column headers from the table
+[2025-03-14 09:59:45] - INFO - Fetching all rows of data from the table
+[2025-03-14 09:59:46] - INFO - Writing data to CSV
+[2025-03-14 09:59:47] - INFO - Exiting the Data Ingestion module
+[2025-03-14 09:59:50] - INFO - >>>>>>>>>>Data Cleaning completed successfully.<<<<<<<<<<<
+[2025-03-14 09:59:50] - INFO - >>>>>>>>>>Starting Feature Extraction<<<<<<<<<<<
+[2025-03-14 09:59:50] - INFO - Entering the Data Ingestion module
+[2025-03-14 09:59:50] - INFO - Connecting to the SQLite database
+[2025-03-14 09:59:50] - INFO - Fetching all column headers from the table
+[2025-03-14 09:59:50] - INFO - Fetching all rows of data from the table
+[2025-03-14 09:59:51] - INFO - Writing data to CSV
+[2025-03-14 09:59:52] - INFO - Exiting the Data Ingestion module
+[2025-03-14 09:59:55] - INFO - Extracting features from the data.
+[2025-03-14 09:59:55] - INFO - Categorizing the season.
+[2025-03-14 09:59:55] - INFO - Categorizing the time of day.
+[2025-03-14 09:59:55] - INFO - Categorizing the flight duration.
+[2025-03-14 09:59:55] - INFO - Extracting hours from Dep_Time and Arrival_Time columns.
+[2025-03-14 09:59:56] - INFO - Extracting minutes from Dep_Time and Arrival_Time columns.
+[2025-03-14 09:59:56] - INFO - Dropping the original Dep_Time and Arrival_Time columns.
+[2025-03-14 09:59:56] - INFO - Calculating the total stops.
+[2025-03-14 09:59:56] - INFO - Exporting the extracted features to a new CSV file .
+[2025-03-14 09:59:58] - INFO - >>>>>>>>>>Feature Extraction completed successfully.<<<<<<<<<<<
+[2025-03-14 09:59:58] - INFO - >>>>>>>>>>Starting Data Preprocessing<<<<<<<<<<<
+[2025-03-14 09:59:58] - INFO - Entering the Data Ingestion module
+[2025-03-14 09:59:58] - INFO - Connecting to the SQLite database
+[2025-03-14 09:59:58] - INFO - Fetching all column headers from the table
+[2025-03-14 09:59:58] - INFO - Fetching all rows of data from the table
+[2025-03-14 09:59:59] - INFO - Writing data to CSV
+[2025-03-14 10:00:00] - INFO - Exiting the Data Ingestion module
+[2025-03-14 10:00:03] - INFO - Extracting features from the data.
+[2025-03-14 10:00:03] - INFO - Categorizing the season.
+[2025-03-14 10:00:03] - INFO - Categorizing the time of day.
+[2025-03-14 10:00:03] - INFO - Categorizing the flight duration.
+[2025-03-14 10:00:03] - INFO - Extracting hours from Dep_Time and Arrival_Time columns.
+[2025-03-14 10:00:03] - INFO - Extracting minutes from Dep_Time and Arrival_Time columns.
+[2025-03-14 10:00:03] - INFO - Dropping the original Dep_Time and Arrival_Time columns.
+[2025-03-14 10:00:03] - INFO - Calculating the total stops.
+[2025-03-14 10:00:04] - INFO - Exporting the extracted features to a new CSV file .
+[2025-03-14 10:00:06] - INFO - Removing the rows with missing values
+[2025-03-14 10:00:06] - INFO - Removing the duplicate rows
+[2025-03-14 10:00:06] - INFO - Removing the columns which are not required
+[2025-03-14 10:00:06] - INFO - Identifying the categorical columns
+[2025-03-14 10:00:06] - INFO - Converting the categorical columns using level encoding
+[2025-03-14 10:00:06] - INFO - Saving the preprocessed data
+[2025-03-14 10:00:07] - INFO - >>>>>>>>>>Data Preprocessing completed successfully.<<<<<<<<<<<
+[2025-03-14 10:00:07] - INFO - >>>>>>>>>>Starting Model Building<<<<<<<<<<<
+[2025-03-14 10:00:07] - INFO - Entering the Data Ingestion module
+[2025-03-14 10:00:07] - INFO - Connecting to the SQLite database
+[2025-03-14 10:00:07] - INFO - Fetching all column headers from the table
+[2025-03-14 10:00:07] - INFO - Fetching all rows of data from the table
+[2025-03-14 10:00:08] - INFO - Writing data to CSV
+[2025-03-14 10:00:09] - INFO - Exiting the Data Ingestion module
+[2025-03-14 10:00:12] - INFO - Extracting features from the data.
+[2025-03-14 10:00:12] - INFO - Categorizing the season.
+[2025-03-14 10:00:13] - INFO - Categorizing the time of day.
+[2025-03-14 10:00:13] - INFO - Categorizing the flight duration.
+[2025-03-14 10:00:13] - INFO - Extracting hours from Dep_Time and Arrival_Time columns.
+[2025-03-14 10:00:13] - INFO - Extracting minutes from Dep_Time and Arrival_Time columns.
+[2025-03-14 10:00:13] - INFO - Dropping the original Dep_Time and Arrival_Time columns.
+[2025-03-14 10:00:13] - INFO - Calculating the total stops.
+[2025-03-14 10:00:13] - INFO - Exporting the extracted features to a new CSV file .
+[2025-03-14 10:00:17] - INFO - Removing the rows with missing values
+[2025-03-14 10:00:17] - INFO - Removing the duplicate rows
+[2025-03-14 10:00:17] - INFO - Removing the columns which are not required
+[2025-03-14 10:00:17] - INFO - Identifying the categorical columns
+[2025-03-14 10:00:17] - INFO - Converting the categorical columns using level encoding
+[2025-03-14 10:00:17] - INFO - Saving the preprocessed data
+[2025-03-14 10:00:17] - INFO - Splitting the data into features and target
+[2025-03-14 10:00:18] - INFO - Standardizing the data
+[2025-03-14 10:00:18] - INFO - Determining the optimal number of clusters using the Elbow Method
+[2025-03-14 10:01:20] - INFO - Optimal number of clusters: 2
+[2025-03-14 10:01:20] - INFO - Applying KMeans clustering with 2 clusters
+[2025-03-14 10:01:20] - INFO - Creating a dictionary of regression models to test
+[2025-03-14 10:01:20] - INFO - Looping through clusters and models
+[2025-03-14 10:01:33] - INFO - Converting the list of results into a DataFrame
+[2025-03-14 10:01:33] - INFO - Training the best model (Random Forest)
+[2025-03-14 10:01:38] - INFO - Saving the trained model to a file
+[2025-03-14 10:01:38] - INFO - >>>>>>>>>>Model Building completed successfully.<<<<<<<<<<<
+[2025-03-14 10:03:39] - INFO - >>>>>>>>>>Starting Database Operation<<<<<<<<<<<
+[2025-03-14 10:03:39] - INFO - Connecting to the SQLite database.
+[2025-03-14 10:03:39] - INFO - Creating the table and uploading data.
+[2025-03-14 10:03:39] - INFO - Table created successfully.
+[2025-03-14 10:03:39] - INFO - Uploading data into the table.
+[2025-03-14 10:03:39] - INFO - Data uploaded successfully.
+[2025-03-14 10:03:40] - INFO - >>>>>>>>>>Database Operation completed successfully.<<<<<<<<<<<
+[2025-03-14 10:03:40] - INFO - >>>>>>>>>>Starting Data Ingestion<<<<<<<<<<<
+[2025-03-14 10:03:40] - INFO - Entering the Data Ingestion module
+[2025-03-14 10:03:40] - INFO - Connecting to the SQLite database
+[2025-03-14 10:03:40] - INFO - Fetching all column headers from the table
+[2025-03-14 10:03:40] - INFO - Fetching all rows of data from the table
+[2025-03-14 10:03:41] - INFO - Writing data to CSV
+[2025-03-14 10:03:42] - INFO - Exiting the Data Ingestion module
+[2025-03-14 10:03:42] - INFO - >>>>>>>>>>Data Ingestion completed successfully.<<<<<<<<<<<
+[2025-03-14 10:03:42] - INFO - >>>>>>>>>>Starting Data Cleaning<<<<<<<<<<<
+[2025-03-14 10:03:42] - INFO - Entering the Data Ingestion module
+[2025-03-14 10:03:42] - INFO - Connecting to the SQLite database
+[2025-03-14 10:03:42] - INFO - Fetching all column headers from the table
+[2025-03-14 10:03:42] - INFO - Fetching all rows of data from the table
+[2025-03-14 10:03:43] - INFO - Writing data to CSV
+[2025-03-14 10:03:45] - INFO - Exiting the Data Ingestion module
+[2025-03-14 10:03:48] - INFO - >>>>>>>>>>Data Cleaning completed successfully.<<<<<<<<<<<
+[2025-03-14 10:03:48] - INFO - >>>>>>>>>>Starting Feature Extraction<<<<<<<<<<<
+[2025-03-14 10:03:48] - INFO - Entering the Data Ingestion module
+[2025-03-14 10:03:48] - INFO - Connecting to the SQLite database
+[2025-03-14 10:03:48] - INFO - Fetching all column headers from the table
+[2025-03-14 10:03:48] - INFO - Fetching all rows of data from the table
+[2025-03-14 10:03:49] - INFO - Writing data to CSV
+[2025-03-14 10:03:50] - INFO - Exiting the Data Ingestion module
+[2025-03-14 10:03:53] - INFO - Extracting features from the data.
+[2025-03-14 10:03:53] - INFO - Categorizing the season.
+[2025-03-14 10:03:53] - INFO - Categorizing the time of day.
+[2025-03-14 10:03:53] - INFO - Categorizing the flight duration.
+[2025-03-14 10:03:54] - INFO - Extracting hours from Dep_Time and Arrival_Time columns.
+[2025-03-14 10:03:54] - INFO - Extracting minutes from Dep_Time and Arrival_Time columns.
+[2025-03-14 10:03:54] - INFO - Dropping the original Dep_Time and Arrival_Time columns.
+[2025-03-14 10:03:54] - INFO - Calculating the total stops.
+[2025-03-14 10:03:54] - INFO - Exporting the extracted features to a new CSV file .
+[2025-03-14 10:03:56] - INFO - >>>>>>>>>>Feature Extraction completed successfully.<<<<<<<<<<<
+[2025-03-14 10:03:56] - INFO - >>>>>>>>>>Starting Data Preprocessing<<<<<<<<<<<
+[2025-03-14 10:03:56] - INFO - Entering the Data Ingestion module
+[2025-03-14 10:03:56] - INFO - Connecting to the SQLite database
+[2025-03-14 10:03:56] - INFO - Fetching all column headers from the table
+[2025-03-14 10:03:56] - INFO - Fetching all rows of data from the table
+[2025-03-14 10:03:57] - INFO - Writing data to CSV
+[2025-03-14 10:03:58] - INFO - Exiting the Data Ingestion module
+[2025-03-14 10:04:01] - INFO - Extracting features from the data.
+[2025-03-14 10:04:01] - INFO - Categorizing the season.
+[2025-03-14 10:04:02] - INFO - Categorizing the time of day.
+[2025-03-14 10:04:02] - INFO - Categorizing the flight duration.
+[2025-03-14 10:04:02] - INFO - Extracting hours from Dep_Time and Arrival_Time columns.
+[2025-03-14 10:04:02] - INFO - Extracting minutes from Dep_Time and Arrival_Time columns.
+[2025-03-14 10:04:02] - INFO - Dropping the original Dep_Time and Arrival_Time columns.
+[2025-03-14 10:04:02] - INFO - Calculating the total stops.
+[2025-03-14 10:04:02] - INFO - Exporting the extracted features to a new CSV file .
+[2025-03-14 10:04:04] - INFO - Removing the rows with missing values
+[2025-03-14 10:04:04] - INFO - Removing the duplicate rows
+[2025-03-14 10:04:05] - INFO - Removing the columns which are not required
+[2025-03-14 10:04:05] - INFO - Identifying the categorical columns
+[2025-03-14 10:04:05] - INFO - Converting the categorical columns using level encoding
+[2025-03-14 10:04:05] - INFO - Saving the preprocessed data
+[2025-03-14 10:04:05] - INFO - >>>>>>>>>>Data Preprocessing completed successfully.<<<<<<<<<<<
+[2025-03-14 10:04:05] - INFO - >>>>>>>>>>Starting Model Building<<<<<<<<<<<
+[2025-03-14 10:04:05] - INFO - Entering the Data Ingestion module
+[2025-03-14 10:04:05] - INFO - Connecting to the SQLite database
+[2025-03-14 10:04:05] - INFO - Fetching all column headers from the table
+[2025-03-14 10:04:05] - INFO - Fetching all rows of data from the table
+[2025-03-14 10:04:06] - INFO - Writing data to CSV
+[2025-03-14 10:04:07] - INFO - Exiting the Data Ingestion module
+[2025-03-14 10:04:10] - INFO - Extracting features from the data.
+[2025-03-14 10:04:10] - INFO - Categorizing the season.
+[2025-03-14 10:04:10] - INFO - Categorizing the time of day.
+[2025-03-14 10:04:10] - INFO - Categorizing the flight duration.
+[2025-03-14 10:04:10] - INFO - Extracting hours from Dep_Time and Arrival_Time columns.
+[2025-03-14 10:04:11] - INFO - Extracting minutes from Dep_Time and Arrival_Time columns.
+[2025-03-14 10:04:11] - INFO - Dropping the original Dep_Time and Arrival_Time columns.
+[2025-03-14 10:04:11] - INFO - Calculating the total stops.
+[2025-03-14 10:04:11] - INFO - Exporting the extracted features to a new CSV file .
+[2025-03-14 10:04:13] - INFO - Removing the rows with missing values
+[2025-03-14 10:04:13] - INFO - Removing the duplicate rows
+[2025-03-14 10:04:13] - INFO - Removing the columns which are not required
+[2025-03-14 10:04:13] - INFO - Identifying the categorical columns
+[2025-03-14 10:04:13] - INFO - Converting the categorical columns using level encoding
+[2025-03-14 10:04:13] - INFO - Saving the preprocessed data
+[2025-03-14 10:04:13] - INFO - Splitting the data into features and target
+[2025-03-14 10:04:13] - INFO - Standardizing the data
+[2025-03-14 10:04:14] - INFO - Splitting the data into training and testing sets
+[2025-03-14 10:04:14] - INFO - Creating a dictionary of regression models to test
+[2025-03-14 10:04:14] - INFO - Looping through models and calculating evaluation metrics
+[2025-03-14 10:04:36] - INFO - Converting the list of results into a DataFrame
+[2025-03-14 10:04:36] - INFO - Training the best model (Random Forest)
+[2025-03-14 10:04:40] - INFO - Saving the trained model to a file
+[2025-03-14 10:04:40] - INFO - >>>>>>>>>>Model Building completed successfully.<<<<<<<<<<<
+[2025-03-14 10:09:22] - INFO - >>>>>>>>>>Starting Database Operation<<<<<<<<<<<
+[2025-03-14 10:09:22] - INFO - Connecting to the SQLite database.
+[2025-03-14 10:09:22] - INFO - Creating the table and uploading data.
+[2025-03-14 10:09:22] - INFO - Table created successfully.
+[2025-03-14 10:09:22] - INFO - Uploading data into the table.
+[2025-03-14 10:09:22] - INFO - Data uploaded successfully.
+[2025-03-14 10:09:23] - INFO - >>>>>>>>>>Database Operation completed successfully.<<<<<<<<<<<
+[2025-03-14 10:09:23] - INFO - >>>>>>>>>>Starting Data Ingestion<<<<<<<<<<<
+[2025-03-14 10:09:23] - INFO - Entering the Data Ingestion module
+[2025-03-14 10:09:23] - INFO - Connecting to the SQLite database
+[2025-03-14 10:09:23] - INFO - Fetching all column headers from the table
+[2025-03-14 10:09:23] - INFO - Fetching all rows of data from the table
+[2025-03-14 10:09:24] - INFO - Writing data to CSV
+[2025-03-14 10:09:25] - INFO - Exiting the Data Ingestion module
+[2025-03-14 10:09:26] - INFO - >>>>>>>>>>Data Ingestion completed successfully.<<<<<<<<<<<
+[2025-03-14 10:09:26] - INFO - >>>>>>>>>>Starting Data Cleaning<<<<<<<<<<<
+[2025-03-14 10:09:26] - INFO - Entering the Data Ingestion module
+[2025-03-14 10:09:26] - INFO - Connecting to the SQLite database
+[2025-03-14 10:09:26] - INFO - Fetching all column headers from the table
+[2025-03-14 10:09:26] - INFO - Fetching all rows of data from the table
+[2025-03-14 10:09:27] - INFO - Writing data to CSV
+[2025-03-14 10:09:28] - INFO - Exiting the Data Ingestion module
+[2025-03-14 10:09:31] - INFO - >>>>>>>>>>Data Cleaning completed successfully.<<<<<<<<<<<
+[2025-03-14 10:09:31] - INFO - >>>>>>>>>>Starting Feature Extraction<<<<<<<<<<<
+[2025-03-14 10:09:31] - INFO - Entering the Data Ingestion module
+[2025-03-14 10:09:31] - INFO - Connecting to the SQLite database
+[2025-03-14 10:09:31] - INFO - Fetching all column headers from the table
+[2025-03-14 10:09:31] - INFO - Fetching all rows of data from the table
+[2025-03-14 10:09:32] - INFO - Writing data to CSV
+[2025-03-14 10:09:34] - INFO - Exiting the Data Ingestion module
+[2025-03-14 10:09:40] - INFO - Extracting features from the data.
+[2025-03-14 10:09:40] - INFO - Categorizing the season.
+[2025-03-14 10:09:40] - INFO - Categorizing the time of day.
+[2025-03-14 10:09:40] - INFO - Categorizing the flight duration.
+[2025-03-14 10:09:40] - INFO - Extracting hours from Dep_Time and Arrival_Time columns.
+[2025-03-14 10:09:40] - INFO - Extracting minutes from Dep_Time and Arrival_Time columns.
+[2025-03-14 10:09:40] - INFO - Dropping the original Dep_Time and Arrival_Time columns.
+[2025-03-14 10:09:41] - INFO - Calculating the total stops.
+[2025-03-14 10:09:41] - INFO - Exporting the extracted features to a new CSV file .
+[2025-03-14 10:09:43] - INFO - >>>>>>>>>>Feature Extraction completed successfully.<<<<<<<<<<<
+[2025-03-14 10:09:43] - INFO - >>>>>>>>>>Starting Data Preprocessing<<<<<<<<<<<
+[2025-03-14 10:09:43] - INFO - Entering the Data Ingestion module
+[2025-03-14 10:09:43] - INFO - Connecting to the SQLite database
+[2025-03-14 10:09:43] - INFO - Fetching all column headers from the table
+[2025-03-14 10:09:43] - INFO - Fetching all rows of data from the table
+[2025-03-14 10:09:44] - INFO - Writing data to CSV
+[2025-03-14 10:09:45] - INFO - Exiting the Data Ingestion module
+[2025-03-14 10:09:49] - INFO - Extracting features from the data.
+[2025-03-14 10:09:49] - INFO - Categorizing the season.
+[2025-03-14 10:09:49] - INFO - Categorizing the time of day.
+[2025-03-14 10:09:49] - INFO - Categorizing the flight duration.
+[2025-03-14 10:09:49] - INFO - Extracting hours from Dep_Time and Arrival_Time columns.
+[2025-03-14 10:09:50] - INFO - Extracting minutes from Dep_Time and Arrival_Time columns.
+[2025-03-14 10:09:50] - INFO - Dropping the original Dep_Time and Arrival_Time columns.
+[2025-03-14 10:09:50] - INFO - Calculating the total stops.
+[2025-03-14 10:09:50] - INFO - Exporting the extracted features to a new CSV file .
+[2025-03-14 10:09:52] - INFO - Removing the rows with missing values
+[2025-03-14 10:09:52] - INFO - Removing the duplicate rows
+[2025-03-14 10:09:53] - INFO - Removing the columns which are not required
+[2025-03-14 10:09:53] - INFO - Identifying the categorical columns
+[2025-03-14 10:09:53] - INFO - Converting the categorical columns using level encoding
+[2025-03-14 10:09:53] - INFO - Saving the preprocessed data
+[2025-03-14 10:09:53] - INFO - >>>>>>>>>>Data Preprocessing completed successfully.<<<<<<<<<<<
+[2025-03-14 10:09:53] - INFO - >>>>>>>>>>Starting Model Building<<<<<<<<<<<
+[2025-03-14 10:09:53] - INFO - Entering the Data Ingestion module
+[2025-03-14 10:09:53] - INFO - Connecting to the SQLite database
+[2025-03-14 10:09:53] - INFO - Fetching all column headers from the table
+[2025-03-14 10:09:53] - INFO - Fetching all rows of data from the table
+[2025-03-14 10:09:54] - INFO - Writing data to CSV
+[2025-03-14 10:09:55] - INFO - Exiting the Data Ingestion module
+[2025-03-14 10:09:58] - INFO - Extracting features from the data.
+[2025-03-14 10:09:58] - INFO - Categorizing the season.
+[2025-03-14 10:09:59] - INFO - Categorizing the time of day.
+[2025-03-14 10:09:59] - INFO - Categorizing the flight duration.
+[2025-03-14 10:09:59] - INFO - Extracting hours from Dep_Time and Arrival_Time columns.
+[2025-03-14 10:09:59] - INFO - Extracting minutes from Dep_Time and Arrival_Time columns.
+[2025-03-14 10:09:59] - INFO - Dropping the original Dep_Time and Arrival_Time columns.
+[2025-03-14 10:09:59] - INFO - Calculating the total stops.
+[2025-03-14 10:09:59] - INFO - Exporting the extracted features to a new CSV file .
+[2025-03-14 10:10:02] - INFO - Removing the rows with missing values
+[2025-03-14 10:10:02] - INFO - Removing the duplicate rows
+[2025-03-14 10:10:02] - INFO - Removing the columns which are not required
+[2025-03-14 10:10:02] - INFO - Identifying the categorical columns
+[2025-03-14 10:10:02] - INFO - Converting the categorical columns using level encoding
+[2025-03-14 10:10:02] - INFO - Saving the preprocessed data
+[2025-03-14 10:10:02] - INFO - Splitting the data into features and target
+[2025-03-14 10:10:02] - INFO - Standardizing the data
+[2025-03-14 10:10:02] - INFO - Splitting the data into training and testing sets
+[2025-03-14 10:10:02] - INFO - Starting optimization for Ridge Regression
+[2025-03-14 10:10:03] - INFO - Best params for Ridge Regression: {'alpha': 1.0225085611543734e-05}
+[2025-03-14 10:10:03] - INFO - Starting optimization for Lasso Regression
+[2025-03-14 10:10:04] - INFO - Best params for Lasso Regression: {'alpha': 1.008259664656462e-05}
+[2025-03-14 10:10:04] - INFO - Starting optimization for ElasticNet Regression
+[2025-03-14 10:10:06] - INFO - Best params for ElasticNet Regression: {'alpha': 9.886008855200579e-05, 'l1_ratio': 0.9966559244257976}
+[2025-03-14 10:10:06] - INFO - Starting optimization for Random Forest
+[2025-03-14 10:20:03] - INFO - Best params for Random Forest: {'n_estimators': 474, 'max_depth': 13}
+[2025-03-14 10:20:03] - INFO - Starting optimization for Gradient Boosting
+[2025-03-14 10:25:25] - INFO - Best params for Gradient Boosting: {'n_estimators': 482, 'learning_rate': 0.09452489893787586}
+[2025-03-14 10:25:25] - INFO - Starting optimization for SVR
+[2025-03-14 10:31:49] - INFO - Best params for SVR: {'C': 43.94986010620569, 'gamma': 'scale', 'kernel': 'rbf'}
+[2025-03-14 10:31:49] - INFO - Training the best model: Random Forest with optimized parameters
+[2025-03-14 10:32:11] - INFO - Final Model: Random Forest
+[2025-03-14 10:32:11] - INFO - Train RMSE: 1207.0539297027267, Train R^2: 0.9326952162137463
+[2025-03-14 10:32:11] - INFO - Test RMSE: 1801.0010361467075, Test R^2: 0.8403465607813292
+[2025-03-14 10:32:11] - INFO - >>>>>>>>>>Model Building completed successfully.<<<<<<<<<<<
